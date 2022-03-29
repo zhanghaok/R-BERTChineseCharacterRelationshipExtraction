@@ -1,0 +1,1741 @@
+2022-03-29 17:48:56 - logger.py[line:33] - INFO: R-BERT的中文关系抽取模型
+2022-03-29 17:49:09 - train.py[line:67] - INFO: Epoch: 0
+2022-03-29 17:49:10 - train.py[line:87] - INFO: raining/training loss:0.13510267734527587--0
+2022-03-29 17:49:11 - train.py[line:87] - INFO: raining/training loss:2.104635328054428--20
+2022-03-29 17:49:13 - train.py[line:87] - INFO: raining/training loss:1.9577278316020965--40
+2022-03-29 17:49:14 - train.py[line:87] - INFO: raining/training loss:1.8053914070129395--60
+2022-03-29 17:49:16 - train.py[line:87] - INFO: raining/training loss:1.7969866394996643--80
+2022-03-29 17:49:18 - train.py[line:87] - INFO: raining/training loss:1.6987768024206162--100
+2022-03-29 17:49:20 - train.py[line:87] - INFO: raining/training loss:1.6102385699748993--120
+2022-03-29 17:49:21 - train.py[line:87] - INFO: raining/training loss:1.561913299560547--140
+2022-03-29 17:49:23 - train.py[line:87] - INFO: raining/training loss:1.5345983982086182--160
+2022-03-29 17:49:25 - train.py[line:87] - INFO: raining/training loss:1.5847164750099183--180
+2022-03-29 17:49:26 - train.py[line:87] - INFO: raining/training loss:1.3860092520713807--200
+2022-03-29 17:49:28 - train.py[line:87] - INFO: raining/training loss:1.4384474337100983--220
+2022-03-29 17:49:30 - train.py[line:87] - INFO: raining/training loss:1.3177504688501358--240
+2022-03-29 17:49:31 - train.py[line:87] - INFO: raining/training loss:1.559369546175003--260
+2022-03-29 17:49:33 - train.py[line:87] - INFO: raining/training loss:1.5494295239448548--280
+2022-03-29 17:49:35 - train.py[line:87] - INFO: raining/training loss:1.486047476530075--300
+2022-03-29 17:49:36 - train.py[line:87] - INFO: raining/training loss:1.3850858896970748--320
+2022-03-29 17:49:38 - train.py[line:87] - INFO: raining/training loss:1.316453754901886--340
+2022-03-29 17:49:40 - train.py[line:87] - INFO: raining/training loss:1.4974240124225617--360
+2022-03-29 17:49:42 - train.py[line:87] - INFO: raining/training loss:1.3389677479863167--380
+2022-03-29 17:49:43 - train.py[line:87] - INFO: raining/training loss:1.3267281591892242--400
+2022-03-29 17:49:45 - train.py[line:87] - INFO: raining/training loss:1.3700108975172043--420
+2022-03-29 17:49:47 - train.py[line:87] - INFO: raining/training loss:1.1823414966464043--440
+2022-03-29 17:49:48 - train.py[line:87] - INFO: raining/training loss:1.1866137936711312--460
+2022-03-29 17:49:50 - train.py[line:87] - INFO: raining/training loss:1.2798708498477935--480
+2022-03-29 17:49:52 - train.py[line:87] - INFO: raining/training loss:1.2220647037029266--500
+2022-03-29 17:49:53 - train.py[line:87] - INFO: raining/training loss:1.2908485025167464--520
+2022-03-29 17:49:55 - train.py[line:87] - INFO: raining/training loss:1.1920303881168366--540
+2022-03-29 17:49:57 - train.py[line:87] - INFO: raining/training loss:1.2667978733778--560
+2022-03-29 17:49:58 - train.py[line:87] - INFO: raining/training loss:1.3784457564353942--580
+2022-03-29 17:50:00 - train.py[line:87] - INFO: raining/training loss:1.2648113906383514--600
+2022-03-29 17:50:02 - train.py[line:87] - INFO: raining/training loss:1.0283434584736824--620
+2022-03-29 17:50:04 - train.py[line:87] - INFO: raining/training loss:1.2823581218719482--640
+2022-03-29 17:50:05 - train.py[line:87] - INFO: raining/training loss:1.3465817779302598--660
+2022-03-29 17:50:07 - train.py[line:87] - INFO: raining/training loss:1.292926099896431--680
+2022-03-29 17:50:09 - train.py[line:87] - INFO: raining/training loss:1.2294693380594253--700
+2022-03-29 17:50:10 - train.py[line:87] - INFO: raining/training loss:1.0863257884979247--720
+2022-03-29 17:50:12 - train.py[line:87] - INFO: raining/training loss:1.2164447277784347--740
+2022-03-29 17:50:14 - train.py[line:87] - INFO: raining/training loss:1.3060918360948564--760
+2022-03-29 17:50:16 - train.py[line:87] - INFO: raining/training loss:1.1132174402475357--780
+2022-03-29 17:50:17 - train.py[line:87] - INFO: raining/training loss:1.1672105386853218--800
+2022-03-29 17:50:19 - train.py[line:87] - INFO: raining/training loss:0.9128954023122787--820
+2022-03-29 17:50:21 - train.py[line:87] - INFO: raining/training loss:1.1596547424793244--840
+2022-03-29 17:50:22 - train.py[line:87] - INFO: raining/training loss:0.9747771196067333--860
+2022-03-29 17:50:24 - train.py[line:87] - INFO: raining/training loss:1.2184040039777755--880
+2022-03-29 17:50:26 - train.py[line:87] - INFO: raining/training loss:1.0611165717244149--900
+2022-03-29 17:50:27 - train.py[line:87] - INFO: raining/training loss:1.265764418244362--920
+2022-03-29 17:50:29 - train.py[line:87] - INFO: raining/training loss:1.0874096930027009--940
+2022-03-29 17:50:31 - train.py[line:87] - INFO: raining/training loss:1.2532262429594994--960
+2022-03-29 17:50:32 - train.py[line:87] - INFO: raining/training loss:1.0856566622853279--980
+2022-03-29 17:50:34 - train.py[line:87] - INFO: raining/training loss:1.1735073298215866--1000
+2022-03-29 17:50:36 - train.py[line:87] - INFO: raining/training loss:1.1344434157013894--1020
+2022-03-29 17:50:37 - train.py[line:87] - INFO: raining/training loss:1.0921462923288345--1040
+2022-03-29 17:50:39 - train.py[line:87] - INFO: raining/training loss:1.1612301021814346--1060
+2022-03-29 17:50:41 - train.py[line:87] - INFO: raining/training loss:1.0410553127527238--1080
+2022-03-29 17:50:43 - train.py[line:87] - INFO: raining/training loss:1.1836212605237961--1100
+2022-03-29 17:50:44 - train.py[line:87] - INFO: raining/training loss:1.1052265346050263--1120
+2022-03-29 17:50:46 - train.py[line:87] - INFO: raining/training loss:0.951917114853859--1140
+2022-03-29 17:50:48 - train.py[line:87] - INFO: raining/training loss:0.968231089413166--1160
+2022-03-29 17:50:49 - train.py[line:87] - INFO: raining/training loss:1.1114760339260101--1180
+2022-03-29 17:50:51 - train.py[line:87] - INFO: raining/training loss:0.8869737833738327--1200
+2022-03-29 17:50:53 - train.py[line:87] - INFO: raining/training loss:1.1078133419156075--1220
+2022-03-29 17:50:54 - train.py[line:87] - INFO: raining/training loss:0.9194999992847442--1240
+2022-03-29 17:50:58 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.46      0.32      0.38       100
+          父母       0.77      0.79      0.78       228
+          夫妻       0.72      0.80      0.76       270
+          师生       0.68      0.78      0.72        54
+        兄弟姐妹       0.48      0.68      0.56        81
+          合作       0.84      0.55      0.67       110
+          情侣       0.62      0.70      0.66        57
+          祖孙       0.55      0.35      0.43        17
+          好友       0.47      0.70      0.57        27
+          亲戚       0.00      0.00      0.00        13
+          同门       0.88      0.29      0.44        24
+         上下级       0.59      0.68      0.63        19
+
+    accuracy                           0.67      1000
+   macro avg       0.59      0.55      0.55      1000
+weighted avg       0.67      0.67      0.66      1000
+
+2022-03-29 17:50:58 - train.py[line:119] - INFO: Validation/f1:0.659399774129258---epoch:0
+2022-03-29 17:50:58 - train.py[line:120] - INFO: Validation/precision:0.6712667437136419---epoch:0
+2022-03-29 17:50:58 - train.py[line:121] - INFO: Validation/recall:0.67---epoch:0
+2022-03-29 17:50:58 - train.py[line:122] - INFO: Validation/accuracy:0.67---epoch:0
+2022-03-29 17:50:59 - train.py[line:67] - INFO: Epoch: 1
+2022-03-29 17:50:59 - train.py[line:87] - INFO: raining/training loss:0.539593618363142--1250
+2022-03-29 17:51:01 - train.py[line:87] - INFO: raining/training loss:0.9161157503724098--1270
+2022-03-29 17:51:03 - train.py[line:87] - INFO: raining/training loss:0.7717901259660721--1290
+2022-03-29 17:51:04 - train.py[line:87] - INFO: raining/training loss:0.6957838937640191--1310
+2022-03-29 17:51:06 - train.py[line:87] - INFO: raining/training loss:0.8001386471092701--1330
+2022-03-29 17:51:08 - train.py[line:87] - INFO: raining/training loss:0.763699895888567--1350
+2022-03-29 17:51:09 - train.py[line:87] - INFO: raining/training loss:0.9759134694933891--1370
+2022-03-29 17:51:11 - train.py[line:87] - INFO: raining/training loss:0.7374391078948974--1390
+2022-03-29 17:51:13 - train.py[line:87] - INFO: raining/training loss:0.8541942536830902--1410
+2022-03-29 17:51:14 - train.py[line:87] - INFO: raining/training loss:0.7398476272821426--1430
+2022-03-29 17:51:16 - train.py[line:87] - INFO: raining/training loss:0.6652193516492844--1450
+2022-03-29 17:51:18 - train.py[line:87] - INFO: raining/training loss:0.6911231555044651--1470
+2022-03-29 17:51:19 - train.py[line:87] - INFO: raining/training loss:0.910290065407753--1490
+2022-03-29 17:51:21 - train.py[line:87] - INFO: raining/training loss:0.841916772723198--1510
+2022-03-29 17:51:22 - train.py[line:87] - INFO: raining/training loss:0.7718463063240051--1530
+2022-03-29 17:51:24 - train.py[line:87] - INFO: raining/training loss:0.8125169575214386--1550
+2022-03-29 17:51:26 - train.py[line:87] - INFO: raining/training loss:0.8412514954805375--1570
+2022-03-29 17:51:27 - train.py[line:87] - INFO: raining/training loss:0.6896718427538872--1590
+2022-03-29 17:51:29 - train.py[line:87] - INFO: raining/training loss:0.8339989461004734--1610
+2022-03-29 17:51:31 - train.py[line:87] - INFO: raining/training loss:0.8686217650771141--1630
+2022-03-29 17:51:32 - train.py[line:87] - INFO: raining/training loss:0.8742578223347663--1650
+2022-03-29 17:51:34 - train.py[line:87] - INFO: raining/training loss:0.8184052884578705--1670
+2022-03-29 17:51:35 - train.py[line:87] - INFO: raining/training loss:0.8054285168647766--1690
+2022-03-29 17:51:37 - train.py[line:87] - INFO: raining/training loss:0.82883730083704--1710
+2022-03-29 17:51:39 - train.py[line:87] - INFO: raining/training loss:0.7383553341031075--1730
+2022-03-29 17:51:40 - train.py[line:87] - INFO: raining/training loss:0.9083157703280449--1750
+2022-03-29 17:51:42 - train.py[line:87] - INFO: raining/training loss:0.7535894632339477--1770
+2022-03-29 17:51:44 - train.py[line:87] - INFO: raining/training loss:0.7106389366090298--1790
+2022-03-29 17:51:45 - train.py[line:87] - INFO: raining/training loss:0.7571719899773598--1810
+2022-03-29 17:51:47 - train.py[line:87] - INFO: raining/training loss:0.6324786871671677--1830
+2022-03-29 17:51:49 - train.py[line:87] - INFO: raining/training loss:0.9469187065958977--1850
+2022-03-29 17:51:50 - train.py[line:87] - INFO: raining/training loss:0.6931878499686718--1870
+2022-03-29 17:51:52 - train.py[line:87] - INFO: raining/training loss:0.6798101335763931--1890
+2022-03-29 17:51:54 - train.py[line:87] - INFO: raining/training loss:0.8312199205160141--1910
+2022-03-29 17:51:55 - train.py[line:87] - INFO: raining/training loss:0.7934017360210419--1930
+2022-03-29 17:51:57 - train.py[line:87] - INFO: raining/training loss:0.7080315604805947--1950
+2022-03-29 17:51:59 - train.py[line:87] - INFO: raining/training loss:0.719088900834322--1970
+2022-03-29 17:52:00 - train.py[line:87] - INFO: raining/training loss:0.8204313516616821--1990
+2022-03-29 17:52:02 - train.py[line:87] - INFO: raining/training loss:0.7648670732975006--2010
+2022-03-29 17:52:04 - train.py[line:87] - INFO: raining/training loss:0.917497918009758--2030
+2022-03-29 17:52:06 - train.py[line:87] - INFO: raining/training loss:0.8557067379355431--2050
+2022-03-29 17:52:07 - train.py[line:87] - INFO: raining/training loss:0.6863933198153973--2070
+2022-03-29 17:52:09 - train.py[line:87] - INFO: raining/training loss:0.6461209133267403--2090
+2022-03-29 17:52:11 - train.py[line:87] - INFO: raining/training loss:0.80696891695261--2110
+2022-03-29 17:52:12 - train.py[line:87] - INFO: raining/training loss:0.7326730579137802--2130
+2022-03-29 17:52:14 - train.py[line:87] - INFO: raining/training loss:0.681767962127924--2150
+2022-03-29 17:52:16 - train.py[line:87] - INFO: raining/training loss:0.6989996328949928--2170
+2022-03-29 17:52:17 - train.py[line:87] - INFO: raining/training loss:0.9139149561524391--2190
+2022-03-29 17:52:19 - train.py[line:87] - INFO: raining/training loss:0.7052736472338438--2210
+2022-03-29 17:52:21 - train.py[line:87] - INFO: raining/training loss:0.6568828821182251--2230
+2022-03-29 17:52:23 - train.py[line:87] - INFO: raining/training loss:0.7794160395860672--2250
+2022-03-29 17:52:24 - train.py[line:87] - INFO: raining/training loss:0.7045950658619404--2270
+2022-03-29 17:52:26 - train.py[line:87] - INFO: raining/training loss:0.6777415782213211--2290
+2022-03-29 17:52:28 - train.py[line:87] - INFO: raining/training loss:0.6665406420826911--2310
+2022-03-29 17:52:29 - train.py[line:87] - INFO: raining/training loss:0.7137812130153179--2330
+2022-03-29 17:52:31 - train.py[line:87] - INFO: raining/training loss:0.7405695304274559--2350
+2022-03-29 17:52:33 - train.py[line:87] - INFO: raining/training loss:0.7119289502501488--2370
+2022-03-29 17:52:34 - train.py[line:87] - INFO: raining/training loss:0.7447070509195328--2390
+2022-03-29 17:52:36 - train.py[line:87] - INFO: raining/training loss:0.7842452116310596--2410
+2022-03-29 17:52:38 - train.py[line:87] - INFO: raining/training loss:0.8594019543379545--2430
+2022-03-29 17:52:40 - train.py[line:87] - INFO: raining/training loss:0.7401619531214237--2450
+2022-03-29 17:52:41 - train.py[line:87] - INFO: raining/training loss:0.7835818141698837--2470
+2022-03-29 17:52:43 - train.py[line:87] - INFO: raining/training loss:1.0978344798088073--2490
+2022-03-29 17:52:47 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.58      0.41      0.48       100
+          父母       0.78      0.72      0.75       228
+          夫妻       0.74      0.82      0.78       270
+          师生       0.69      0.69      0.69        54
+        兄弟姐妹       0.68      0.64      0.66        81
+          合作       0.76      0.76      0.76       110
+          情侣       0.61      0.75      0.67        57
+          祖孙       0.52      0.65      0.58        17
+          好友       0.69      0.67      0.68        27
+          亲戚       0.80      0.31      0.44        13
+          同门       0.68      0.62      0.65        24
+         上下级       0.47      0.74      0.57        19
+
+    accuracy                           0.71      1000
+   macro avg       0.67      0.65      0.64      1000
+weighted avg       0.71      0.71      0.70      1000
+
+2022-03-29 17:52:47 - train.py[line:119] - INFO: Validation/f1:0.7019710684990497---epoch:1
+2022-03-29 17:52:47 - train.py[line:120] - INFO: Validation/precision:0.7076923503943967---epoch:1
+2022-03-29 17:52:47 - train.py[line:121] - INFO: Validation/recall:0.706---epoch:1
+2022-03-29 17:52:47 - train.py[line:122] - INFO: Validation/accuracy:0.706---epoch:1
+2022-03-29 17:52:48 - train.py[line:67] - INFO: Epoch: 2
+2022-03-29 17:52:48 - train.py[line:87] - INFO: raining/training loss:0.3517484501004219--2500
+2022-03-29 17:52:50 - train.py[line:87] - INFO: raining/training loss:0.39491916075348854--2520
+2022-03-29 17:52:51 - train.py[line:87] - INFO: raining/training loss:0.3988413743674755--2540
+2022-03-29 17:52:53 - train.py[line:87] - INFO: raining/training loss:0.43045091368258--2560
+2022-03-29 17:52:55 - train.py[line:87] - INFO: raining/training loss:0.5769699666649103--2580
+2022-03-29 17:52:56 - train.py[line:87] - INFO: raining/training loss:0.48884482122957706--2600
+2022-03-29 17:52:58 - train.py[line:87] - INFO: raining/training loss:0.3787345319986343--2620
+2022-03-29 17:53:00 - train.py[line:87] - INFO: raining/training loss:0.4176765620708466--2640
+2022-03-29 17:53:01 - train.py[line:87] - INFO: raining/training loss:0.4190827954560518--2660
+2022-03-29 17:53:03 - train.py[line:87] - INFO: raining/training loss:0.40942448526620867--2680
+2022-03-29 17:53:05 - train.py[line:87] - INFO: raining/training loss:0.4015885543078184--2700
+2022-03-29 17:53:07 - train.py[line:87] - INFO: raining/training loss:0.5193531289696693--2720
+2022-03-29 17:53:08 - train.py[line:87] - INFO: raining/training loss:0.4683003626763821--2740
+2022-03-29 17:53:10 - train.py[line:87] - INFO: raining/training loss:0.49257348068058493--2760
+2022-03-29 17:53:12 - train.py[line:87] - INFO: raining/training loss:0.375283314101398--2780
+2022-03-29 17:53:13 - train.py[line:87] - INFO: raining/training loss:0.46525733470916747--2800
+2022-03-29 17:53:15 - train.py[line:87] - INFO: raining/training loss:0.45490544065833094--2820
+2022-03-29 17:53:17 - train.py[line:87] - INFO: raining/training loss:0.4955801159143448--2840
+2022-03-29 17:53:19 - train.py[line:87] - INFO: raining/training loss:0.4363075990229845--2860
+2022-03-29 17:53:20 - train.py[line:87] - INFO: raining/training loss:0.3137704314664006--2880
+2022-03-29 17:53:22 - train.py[line:87] - INFO: raining/training loss:0.3307709934189916--2900
+2022-03-29 17:53:24 - train.py[line:87] - INFO: raining/training loss:0.47059132866561415--2920
+2022-03-29 17:53:25 - train.py[line:87] - INFO: raining/training loss:0.6364569345489144--2940
+2022-03-29 17:53:27 - train.py[line:87] - INFO: raining/training loss:0.4996856991201639--2960
+2022-03-29 17:53:29 - train.py[line:87] - INFO: raining/training loss:0.4132339920848608--2980
+2022-03-29 17:53:31 - train.py[line:87] - INFO: raining/training loss:0.5137017221190036--3000
+2022-03-29 17:53:32 - train.py[line:87] - INFO: raining/training loss:0.5559306815266609--3020
+2022-03-29 17:53:34 - train.py[line:87] - INFO: raining/training loss:0.5071416899561882--3040
+2022-03-29 17:53:36 - train.py[line:87] - INFO: raining/training loss:0.41814269684255123--3060
+2022-03-29 17:53:37 - train.py[line:87] - INFO: raining/training loss:0.4242952339351177--3080
+2022-03-29 17:53:39 - train.py[line:87] - INFO: raining/training loss:0.4638555470854044--3100
+2022-03-29 17:53:41 - train.py[line:87] - INFO: raining/training loss:0.3599067233502865--3120
+2022-03-29 17:53:43 - train.py[line:87] - INFO: raining/training loss:0.4980410089716315--3140
+2022-03-29 17:53:44 - train.py[line:87] - INFO: raining/training loss:0.4514670591801405--3160
+2022-03-29 17:53:46 - train.py[line:87] - INFO: raining/training loss:0.44716752460226417--3180
+2022-03-29 17:53:48 - train.py[line:87] - INFO: raining/training loss:0.5684456685557961--3200
+2022-03-29 17:53:49 - train.py[line:87] - INFO: raining/training loss:0.45549136530607937--3220
+2022-03-29 17:53:51 - train.py[line:87] - INFO: raining/training loss:0.4918093282729387--3240
+2022-03-29 17:53:53 - train.py[line:87] - INFO: raining/training loss:0.3182950228452682--3260
+2022-03-29 17:53:55 - train.py[line:87] - INFO: raining/training loss:0.32139948606491087--3280
+2022-03-29 17:53:56 - train.py[line:87] - INFO: raining/training loss:0.4179768022149801--3300
+2022-03-29 17:53:58 - train.py[line:87] - INFO: raining/training loss:0.43677398692816494--3320
+2022-03-29 17:54:00 - train.py[line:87] - INFO: raining/training loss:0.4778459506109357--3340
+2022-03-29 17:54:01 - train.py[line:87] - INFO: raining/training loss:0.5729008490685373--3360
+2022-03-29 17:54:03 - train.py[line:87] - INFO: raining/training loss:0.5094090178608894--3380
+2022-03-29 17:54:05 - train.py[line:87] - INFO: raining/training loss:0.4712197333574295--3400
+2022-03-29 17:54:06 - train.py[line:87] - INFO: raining/training loss:0.44735472118481995--3420
+2022-03-29 17:54:08 - train.py[line:87] - INFO: raining/training loss:0.593046061322093--3440
+2022-03-29 17:54:10 - train.py[line:87] - INFO: raining/training loss:0.335440992936492--3460
+2022-03-29 17:54:11 - train.py[line:87] - INFO: raining/training loss:0.35774568086490033--3480
+2022-03-29 17:54:13 - train.py[line:87] - INFO: raining/training loss:0.5000400196760892--3500
+2022-03-29 17:54:15 - train.py[line:87] - INFO: raining/training loss:0.5526410803198815--3520
+2022-03-29 17:54:17 - train.py[line:87] - INFO: raining/training loss:0.5033433182165027--3540
+2022-03-29 17:54:18 - train.py[line:87] - INFO: raining/training loss:0.6223024632781744--3560
+2022-03-29 17:54:20 - train.py[line:87] - INFO: raining/training loss:0.5043102513998747--3580
+2022-03-29 17:54:22 - train.py[line:87] - INFO: raining/training loss:0.4754079103469849--3600
+2022-03-29 17:54:23 - train.py[line:87] - INFO: raining/training loss:0.3941757146269083--3620
+2022-03-29 17:54:25 - train.py[line:87] - INFO: raining/training loss:0.3970773499459028--3640
+2022-03-29 17:54:27 - train.py[line:87] - INFO: raining/training loss:0.5046330958604812--3660
+2022-03-29 17:54:28 - train.py[line:87] - INFO: raining/training loss:0.5169668313115835--3680
+2022-03-29 17:54:30 - train.py[line:87] - INFO: raining/training loss:0.4365706263110042--3700
+2022-03-29 17:54:32 - train.py[line:87] - INFO: raining/training loss:0.46817760448902845--3720
+2022-03-29 17:54:33 - train.py[line:87] - INFO: raining/training loss:0.47040288895368576--3740
+2022-03-29 17:54:37 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.47      0.61      0.53       100
+          父母       0.82      0.75      0.78       228
+          夫妻       0.80      0.78      0.79       270
+          师生       0.81      0.63      0.71        54
+        兄弟姐妹       0.71      0.68      0.70        81
+          合作       0.81      0.75      0.78       110
+          情侣       0.64      0.79      0.71        57
+          祖孙       0.67      0.71      0.69        17
+          好友       0.58      0.67      0.62        27
+          亲戚       0.62      0.38      0.48        13
+          同门       0.74      0.83      0.78        24
+         上下级       0.57      0.68      0.62        19
+
+    accuracy                           0.73      1000
+   macro avg       0.69      0.69      0.68      1000
+weighted avg       0.74      0.73      0.73      1000
+
+2022-03-29 17:54:37 - train.py[line:119] - INFO: Validation/f1:0.7305821926627506---epoch:2
+2022-03-29 17:54:37 - train.py[line:120] - INFO: Validation/precision:0.7405273363467296---epoch:2
+2022-03-29 17:54:37 - train.py[line:121] - INFO: Validation/recall:0.727---epoch:2
+2022-03-29 17:54:37 - train.py[line:122] - INFO: Validation/accuracy:0.727---epoch:2
+2022-03-29 17:54:38 - train.py[line:67] - INFO: Epoch: 3
+2022-03-29 17:54:38 - train.py[line:87] - INFO: raining/training loss:0.16501576639711857--3750
+2022-03-29 17:54:40 - train.py[line:87] - INFO: raining/training loss:0.25879443995654583--3770
+2022-03-29 17:54:42 - train.py[line:87] - INFO: raining/training loss:0.22722287736833097--3790
+2022-03-29 17:54:43 - train.py[line:87] - INFO: raining/training loss:0.29992078244686127--3810
+2022-03-29 17:54:45 - train.py[line:87] - INFO: raining/training loss:0.25638857763260603--3830
+2022-03-29 17:54:47 - train.py[line:87] - INFO: raining/training loss:0.19833626789040865--3850
+2022-03-29 17:54:48 - train.py[line:87] - INFO: raining/training loss:0.15229511139914392--3870
+2022-03-29 17:54:50 - train.py[line:87] - INFO: raining/training loss:0.21552996300160884--3890
+2022-03-29 17:54:52 - train.py[line:87] - INFO: raining/training loss:0.3013056465424597--3910
+2022-03-29 17:54:54 - train.py[line:87] - INFO: raining/training loss:0.1857539496384561--3930
+2022-03-29 17:54:55 - train.py[line:87] - INFO: raining/training loss:0.17511832066811622--3950
+2022-03-29 17:54:57 - train.py[line:87] - INFO: raining/training loss:0.23439271450042726--3970
+2022-03-29 17:54:59 - train.py[line:87] - INFO: raining/training loss:0.33836524859070777--3990
+2022-03-29 17:55:00 - train.py[line:87] - INFO: raining/training loss:0.14241749686188995--4010
+2022-03-29 17:55:02 - train.py[line:87] - INFO: raining/training loss:0.2541422623675317--4030
+2022-03-29 17:55:04 - train.py[line:87] - INFO: raining/training loss:0.23117260131984949--4050
+2022-03-29 17:55:05 - train.py[line:87] - INFO: raining/training loss:0.23815205078572035--4070
+2022-03-29 17:55:07 - train.py[line:87] - INFO: raining/training loss:0.30857401276007296--4090
+2022-03-29 17:55:09 - train.py[line:87] - INFO: raining/training loss:0.2708126504905522--4110
+2022-03-29 17:55:11 - train.py[line:87] - INFO: raining/training loss:0.28455459233373404--4130
+2022-03-29 17:55:12 - train.py[line:87] - INFO: raining/training loss:0.24933168075513096--4150
+2022-03-29 17:55:14 - train.py[line:87] - INFO: raining/training loss:0.30445831194519996--4170
+2022-03-29 17:55:16 - train.py[line:87] - INFO: raining/training loss:0.21752229388803243--4190
+2022-03-29 17:55:17 - train.py[line:87] - INFO: raining/training loss:0.38070368096232415--4210
+2022-03-29 17:55:19 - train.py[line:87] - INFO: raining/training loss:0.22731969486922027--4230
+2022-03-29 17:55:21 - train.py[line:87] - INFO: raining/training loss:0.3285297988681123--4250
+2022-03-29 17:55:22 - train.py[line:87] - INFO: raining/training loss:0.305384673923254--4270
+2022-03-29 17:55:24 - train.py[line:87] - INFO: raining/training loss:0.23086538622155786--4290
+2022-03-29 17:55:26 - train.py[line:87] - INFO: raining/training loss:0.23435124000534416--4310
+2022-03-29 17:55:28 - train.py[line:87] - INFO: raining/training loss:0.19772173115052283--4330
+2022-03-29 17:55:29 - train.py[line:87] - INFO: raining/training loss:0.3018472338095307--4350
+2022-03-29 17:55:31 - train.py[line:87] - INFO: raining/training loss:0.2839702762663364--4370
+2022-03-29 17:55:32 - train.py[line:87] - INFO: raining/training loss:0.29044692367315295--4390
+2022-03-29 17:55:34 - train.py[line:87] - INFO: raining/training loss:0.177416152600199--4410
+2022-03-29 17:55:36 - train.py[line:87] - INFO: raining/training loss:0.3159978037700057--4430
+2022-03-29 17:55:37 - train.py[line:87] - INFO: raining/training loss:0.3025936817750335--4450
+2022-03-29 17:55:39 - train.py[line:87] - INFO: raining/training loss:0.44992147888988254--4470
+2022-03-29 17:55:41 - train.py[line:87] - INFO: raining/training loss:0.356968648545444--4490
+2022-03-29 17:55:42 - train.py[line:87] - INFO: raining/training loss:0.22852663584053517--4510
+2022-03-29 17:55:44 - train.py[line:87] - INFO: raining/training loss:0.2519612962380052--4530
+2022-03-29 17:55:46 - train.py[line:87] - INFO: raining/training loss:0.24753107819706202--4550
+2022-03-29 17:55:47 - train.py[line:87] - INFO: raining/training loss:0.3828953620046377--4570
+2022-03-29 17:55:49 - train.py[line:87] - INFO: raining/training loss:0.2945666051004082--4590
+2022-03-29 17:55:51 - train.py[line:87] - INFO: raining/training loss:0.3406148224836215--4610
+2022-03-29 17:55:53 - train.py[line:87] - INFO: raining/training loss:0.3547526041045785--4630
+2022-03-29 17:55:54 - train.py[line:87] - INFO: raining/training loss:0.32779023637995125--4650
+2022-03-29 17:55:56 - train.py[line:87] - INFO: raining/training loss:0.2901012601330876--4670
+2022-03-29 17:55:58 - train.py[line:87] - INFO: raining/training loss:0.12725868145935237--4690
+2022-03-29 17:56:00 - train.py[line:87] - INFO: raining/training loss:0.3603721120394766--4710
+2022-03-29 17:56:01 - train.py[line:87] - INFO: raining/training loss:0.3951605150476098--4730
+2022-03-29 17:56:03 - train.py[line:87] - INFO: raining/training loss:0.2313374750316143--4750
+2022-03-29 17:56:05 - train.py[line:87] - INFO: raining/training loss:0.3217762216925621--4770
+2022-03-29 17:56:06 - train.py[line:87] - INFO: raining/training loss:0.39372539706528187--4790
+2022-03-29 17:56:08 - train.py[line:87] - INFO: raining/training loss:0.374840447306633--4810
+2022-03-29 17:56:10 - train.py[line:87] - INFO: raining/training loss:0.41568060107529164--4830
+2022-03-29 17:56:12 - train.py[line:87] - INFO: raining/training loss:0.2695563552901149--4850
+2022-03-29 17:56:13 - train.py[line:87] - INFO: raining/training loss:0.2567022184841335--4870
+2022-03-29 17:56:15 - train.py[line:87] - INFO: raining/training loss:0.3120774325914681--4890
+2022-03-29 17:56:17 - train.py[line:87] - INFO: raining/training loss:0.32541603310965--4910
+2022-03-29 17:56:19 - train.py[line:87] - INFO: raining/training loss:0.3402160404250026--4930
+2022-03-29 17:56:20 - train.py[line:87] - INFO: raining/training loss:0.21239026514813303--4950
+2022-03-29 17:56:22 - train.py[line:87] - INFO: raining/training loss:0.29860712829977276--4970
+2022-03-29 17:56:24 - train.py[line:87] - INFO: raining/training loss:0.2326707484200597--4990
+2022-03-29 17:56:28 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.54      0.58      0.56       100
+          父母       0.82      0.79      0.81       228
+          夫妻       0.79      0.86      0.82       270
+          师生       0.80      0.72      0.76        54
+        兄弟姐妹       0.72      0.62      0.67        81
+          合作       0.78      0.73      0.75       110
+          情侣       0.82      0.82      0.82        57
+          祖孙       0.57      0.47      0.52        17
+          好友       0.72      0.67      0.69        27
+          亲戚       0.45      0.38      0.42        13
+          同门       0.60      0.75      0.67        24
+         上下级       0.64      0.74      0.68        19
+
+    accuracy                           0.75      1000
+   macro avg       0.69      0.68      0.68      1000
+weighted avg       0.75      0.75      0.75      1000
+
+2022-03-29 17:56:28 - train.py[line:119] - INFO: Validation/f1:0.7491535255817797---epoch:3
+2022-03-29 17:56:28 - train.py[line:120] - INFO: Validation/precision:0.7512310745841356---epoch:3
+2022-03-29 17:56:28 - train.py[line:121] - INFO: Validation/recall:0.75---epoch:3
+2022-03-29 17:56:28 - train.py[line:122] - INFO: Validation/accuracy:0.75---epoch:3
+2022-03-29 17:56:29 - train.py[line:67] - INFO: Epoch: 4
+2022-03-29 17:56:29 - train.py[line:87] - INFO: raining/training loss:0.1807030387222767--5000
+2022-03-29 17:56:30 - train.py[line:87] - INFO: raining/training loss:0.178444885998033--5020
+2022-03-29 17:56:32 - train.py[line:87] - INFO: raining/training loss:0.14776331316679717--5040
+2022-03-29 17:56:34 - train.py[line:87] - INFO: raining/training loss:0.07228726027533412--5060
+2022-03-29 17:56:35 - train.py[line:87] - INFO: raining/training loss:0.20599190155044197--5080
+2022-03-29 17:56:37 - train.py[line:87] - INFO: raining/training loss:0.1989130427595228--5100
+2022-03-29 17:56:39 - train.py[line:87] - INFO: raining/training loss:0.18586784212384372--5120
+2022-03-29 17:56:40 - train.py[line:87] - INFO: raining/training loss:0.1735272700432688--5140
+2022-03-29 17:56:42 - train.py[line:87] - INFO: raining/training loss:0.1770911284722388--5160
+2022-03-29 17:56:44 - train.py[line:87] - INFO: raining/training loss:0.16471844585612416--5180
+2022-03-29 17:56:46 - train.py[line:87] - INFO: raining/training loss:0.10179647458717227--5200
+2022-03-29 17:56:47 - train.py[line:87] - INFO: raining/training loss:0.14007178973406553--5220
+2022-03-29 17:56:49 - train.py[line:87] - INFO: raining/training loss:0.207571517303586--5240
+2022-03-29 17:56:51 - train.py[line:87] - INFO: raining/training loss:0.08418596095871181--5260
+2022-03-29 17:56:52 - train.py[line:87] - INFO: raining/training loss:0.17337625878863036--5280
+2022-03-29 17:56:54 - train.py[line:87] - INFO: raining/training loss:0.12195747336372734--5300
+2022-03-29 17:56:56 - train.py[line:87] - INFO: raining/training loss:0.16007018913514912--5320
+2022-03-29 17:56:57 - train.py[line:87] - INFO: raining/training loss:0.12306057426612824--5340
+2022-03-29 17:56:59 - train.py[line:87] - INFO: raining/training loss:0.13452759976498782--5360
+2022-03-29 17:57:01 - train.py[line:87] - INFO: raining/training loss:0.11388556805904955--5380
+2022-03-29 17:57:02 - train.py[line:87] - INFO: raining/training loss:0.30981903759529816--5400
+2022-03-29 17:57:04 - train.py[line:87] - INFO: raining/training loss:0.22286131856963037--5420
+2022-03-29 17:57:06 - train.py[line:87] - INFO: raining/training loss:0.22362623726949096--5440
+2022-03-29 17:57:07 - train.py[line:87] - INFO: raining/training loss:0.2426900440827012--5460
+2022-03-29 17:57:09 - train.py[line:87] - INFO: raining/training loss:0.17859362373128534--5480
+2022-03-29 17:57:11 - train.py[line:87] - INFO: raining/training loss:0.19694011230021716--5500
+2022-03-29 17:57:13 - train.py[line:87] - INFO: raining/training loss:0.18230064678937197--5520
+2022-03-29 17:57:14 - train.py[line:87] - INFO: raining/training loss:0.149642966222018--5540
+2022-03-29 17:57:16 - train.py[line:87] - INFO: raining/training loss:0.22858934379182755--5560
+2022-03-29 17:57:18 - train.py[line:87] - INFO: raining/training loss:0.316034482838586--5580
+2022-03-29 17:57:20 - train.py[line:87] - INFO: raining/training loss:0.2494561607018113--5600
+2022-03-29 17:57:21 - train.py[line:87] - INFO: raining/training loss:0.09979180432856083--5620
+2022-03-29 17:57:23 - train.py[line:87] - INFO: raining/training loss:0.17450468558818102--5640
+2022-03-29 17:57:25 - train.py[line:87] - INFO: raining/training loss:0.21841883528977632--5660
+2022-03-29 17:57:26 - train.py[line:87] - INFO: raining/training loss:0.2224400829989463--5680
+2022-03-29 17:57:28 - train.py[line:87] - INFO: raining/training loss:0.2298698396421969--5700
+2022-03-29 17:57:30 - train.py[line:87] - INFO: raining/training loss:0.24044880717992784--5720
+2022-03-29 17:57:32 - train.py[line:87] - INFO: raining/training loss:0.2548520065494813--5740
+2022-03-29 17:57:33 - train.py[line:87] - INFO: raining/training loss:0.3338814554270357--5760
+2022-03-29 17:57:35 - train.py[line:87] - INFO: raining/training loss:0.24877133332192897--5780
+2022-03-29 17:57:37 - train.py[line:87] - INFO: raining/training loss:0.18689074106514453--5800
+2022-03-29 17:57:39 - train.py[line:87] - INFO: raining/training loss:0.2614336590282619--5820
+2022-03-29 17:57:40 - train.py[line:87] - INFO: raining/training loss:0.26110223066061733--5840
+2022-03-29 17:57:42 - train.py[line:87] - INFO: raining/training loss:0.13887305753305554--5860
+2022-03-29 17:57:44 - train.py[line:87] - INFO: raining/training loss:0.2270729194395244--5880
+2022-03-29 17:57:45 - train.py[line:87] - INFO: raining/training loss:0.20505316322669387--5900
+2022-03-29 17:57:47 - train.py[line:87] - INFO: raining/training loss:0.1776952334214002--5920
+2022-03-29 17:57:49 - train.py[line:87] - INFO: raining/training loss:0.20688208043575287--5940
+2022-03-29 17:57:50 - train.py[line:87] - INFO: raining/training loss:0.24185717441141605--5960
+2022-03-29 17:57:52 - train.py[line:87] - INFO: raining/training loss:0.1408324941061437--5980
+2022-03-29 17:57:54 - train.py[line:87] - INFO: raining/training loss:0.18282665351871402--6000
+2022-03-29 17:57:55 - train.py[line:87] - INFO: raining/training loss:0.16222814570646732--6020
+2022-03-29 17:57:57 - train.py[line:87] - INFO: raining/training loss:0.2014507985673845--6040
+2022-03-29 17:57:59 - train.py[line:87] - INFO: raining/training loss:0.15085779470391572--6060
+2022-03-29 17:58:01 - train.py[line:87] - INFO: raining/training loss:0.15688457316718996--6080
+2022-03-29 17:58:02 - train.py[line:87] - INFO: raining/training loss:0.1633525237441063--6100
+2022-03-29 17:58:04 - train.py[line:87] - INFO: raining/training loss:0.23529780339449644--6120
+2022-03-29 17:58:06 - train.py[line:87] - INFO: raining/training loss:0.2488366752397269--6140
+2022-03-29 17:58:07 - train.py[line:87] - INFO: raining/training loss:0.1771361398510635--6160
+2022-03-29 17:58:09 - train.py[line:87] - INFO: raining/training loss:0.2331063674762845--6180
+2022-03-29 17:58:11 - train.py[line:87] - INFO: raining/training loss:0.21805621245875956--6200
+2022-03-29 17:58:12 - train.py[line:87] - INFO: raining/training loss:0.2529725972330198--6220
+2022-03-29 17:58:14 - train.py[line:87] - INFO: raining/training loss:0.2842373543418944--6240
+2022-03-29 17:58:18 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.51      0.54      0.52       100
+          父母       0.76      0.81      0.79       228
+          夫妻       0.81      0.83      0.82       270
+          师生       0.73      0.65      0.69        54
+        兄弟姐妹       0.71      0.60      0.65        81
+          合作       0.84      0.69      0.76       110
+          情侣       0.84      0.84      0.84        57
+          祖孙       0.52      0.71      0.60        17
+          好友       0.58      0.70      0.63        27
+          亲戚       0.67      0.31      0.42        13
+          同门       0.57      0.71      0.63        24
+         上下级       0.60      0.63      0.62        19
+
+    accuracy                           0.73      1000
+   macro avg       0.68      0.67      0.66      1000
+weighted avg       0.74      0.73      0.73      1000
+
+2022-03-29 17:58:18 - train.py[line:119] - INFO: Validation/f1:0.7346109342499656---epoch:4
+2022-03-29 17:58:18 - train.py[line:120] - INFO: Validation/precision:0.740238666119017---epoch:4
+2022-03-29 17:58:18 - train.py[line:121] - INFO: Validation/recall:0.735---epoch:4
+2022-03-29 17:58:18 - train.py[line:122] - INFO: Validation/accuracy:0.735---epoch:4
+2022-03-29 17:58:18 - train.py[line:67] - INFO: Epoch: 5
+2022-03-29 17:58:18 - train.py[line:87] - INFO: raining/training loss:0.10799896870739759--6250
+2022-03-29 17:58:20 - train.py[line:87] - INFO: raining/training loss:0.1228200962767005--6270
+2022-03-29 17:58:21 - train.py[line:87] - INFO: raining/training loss:0.08622011649422348--6290
+2022-03-29 17:58:23 - train.py[line:87] - INFO: raining/training loss:0.07501828910317272--6310
+2022-03-29 17:58:25 - train.py[line:87] - INFO: raining/training loss:0.12082416731864214--6330
+2022-03-29 17:58:27 - train.py[line:87] - INFO: raining/training loss:0.18815861446782947--6350
+2022-03-29 17:58:28 - train.py[line:87] - INFO: raining/training loss:0.10139801678014919--6370
+2022-03-29 17:58:30 - train.py[line:87] - INFO: raining/training loss:0.10500069884583355--6390
+2022-03-29 17:58:32 - train.py[line:87] - INFO: raining/training loss:0.08593728804262354--6410
+2022-03-29 17:58:33 - train.py[line:87] - INFO: raining/training loss:0.08488637146074325--6430
+2022-03-29 17:58:35 - train.py[line:87] - INFO: raining/training loss:0.05390915716998279--6450
+2022-03-29 17:58:37 - train.py[line:87] - INFO: raining/training loss:0.10622169406851753--6470
+2022-03-29 17:58:38 - train.py[line:87] - INFO: raining/training loss:0.21874672181438654--6490
+2022-03-29 17:58:40 - train.py[line:87] - INFO: raining/training loss:0.13499173176242038--6510
+2022-03-29 17:58:42 - train.py[line:87] - INFO: raining/training loss:0.10615155612467789--6530
+2022-03-29 17:58:43 - train.py[line:87] - INFO: raining/training loss:0.10149994979146867--6550
+2022-03-29 17:58:45 - train.py[line:87] - INFO: raining/training loss:0.08509163140552119--6570
+2022-03-29 17:58:47 - train.py[line:87] - INFO: raining/training loss:0.12143613015068695--6590
+2022-03-29 17:58:48 - train.py[line:87] - INFO: raining/training loss:0.11760463763494045--6610
+2022-03-29 17:58:50 - train.py[line:87] - INFO: raining/training loss:0.1427441577077843--6630
+2022-03-29 17:58:52 - train.py[line:87] - INFO: raining/training loss:0.08677183773834259--6650
+2022-03-29 17:58:54 - train.py[line:87] - INFO: raining/training loss:0.11282700698357076--6670
+2022-03-29 17:58:55 - train.py[line:87] - INFO: raining/training loss:0.06313039336819201--6690
+2022-03-29 17:58:57 - train.py[line:87] - INFO: raining/training loss:0.11569062559283338--6710
+2022-03-29 17:58:59 - train.py[line:87] - INFO: raining/training loss:0.11354132799897343--6730
+2022-03-29 17:59:00 - train.py[line:87] - INFO: raining/training loss:0.1607467617141083--6750
+2022-03-29 17:59:02 - train.py[line:87] - INFO: raining/training loss:0.19293613866902887--6770
+2022-03-29 17:59:04 - train.py[line:87] - INFO: raining/training loss:0.15611511038150638--6790
+2022-03-29 17:59:06 - train.py[line:87] - INFO: raining/training loss:0.14447568063624203--6810
+2022-03-29 17:59:07 - train.py[line:87] - INFO: raining/training loss:0.178888986754464--6830
+2022-03-29 17:59:09 - train.py[line:87] - INFO: raining/training loss:0.1302583424374461--6850
+2022-03-29 17:59:11 - train.py[line:87] - INFO: raining/training loss:0.20635412777774037--6870
+2022-03-29 17:59:12 - train.py[line:87] - INFO: raining/training loss:0.2030333242379129--6890
+2022-03-29 17:59:14 - train.py[line:87] - INFO: raining/training loss:0.12249845238402486--6910
+2022-03-29 17:59:16 - train.py[line:87] - INFO: raining/training loss:0.12134240553714334--6930
+2022-03-29 17:59:18 - train.py[line:87] - INFO: raining/training loss:0.16088304352015256--6950
+2022-03-29 17:59:19 - train.py[line:87] - INFO: raining/training loss:0.17673036234918982--6970
+2022-03-29 17:59:21 - train.py[line:87] - INFO: raining/training loss:0.19113509431481362--6990
+2022-03-29 17:59:23 - train.py[line:87] - INFO: raining/training loss:0.23020019612740725--7010
+2022-03-29 17:59:24 - train.py[line:87] - INFO: raining/training loss:0.1884808873059228--7030
+2022-03-29 17:59:26 - train.py[line:87] - INFO: raining/training loss:0.15356310325441883--7050
+2022-03-29 17:59:28 - train.py[line:87] - INFO: raining/training loss:0.15229595052078365--7070
+2022-03-29 17:59:29 - train.py[line:87] - INFO: raining/training loss:0.09280397681286559--7090
+2022-03-29 17:59:31 - train.py[line:87] - INFO: raining/training loss:0.156271524715703--7110
+2022-03-29 17:59:33 - train.py[line:87] - INFO: raining/training loss:0.1095006623538211--7130
+2022-03-29 17:59:35 - train.py[line:87] - INFO: raining/training loss:0.1789394380990416--7150
+2022-03-29 17:59:36 - train.py[line:87] - INFO: raining/training loss:0.16157797602936624--7170
+2022-03-29 17:59:38 - train.py[line:87] - INFO: raining/training loss:0.15024206596426665--7190
+2022-03-29 17:59:40 - train.py[line:87] - INFO: raining/training loss:0.19219485328067093--7210
+2022-03-29 17:59:41 - train.py[line:87] - INFO: raining/training loss:0.14663397417170926--7230
+2022-03-29 17:59:43 - train.py[line:87] - INFO: raining/training loss:0.2604638930235524--7250
+2022-03-29 17:59:45 - train.py[line:87] - INFO: raining/training loss:0.1895042710704729--7270
+2022-03-29 17:59:47 - train.py[line:87] - INFO: raining/training loss:0.12557409669971092--7290
+2022-03-29 17:59:48 - train.py[line:87] - INFO: raining/training loss:0.16379436235874892--7310
+2022-03-29 17:59:50 - train.py[line:87] - INFO: raining/training loss:0.12297028335742652--7330
+2022-03-29 17:59:52 - train.py[line:87] - INFO: raining/training loss:0.28071861397475006--7350
+2022-03-29 17:59:53 - train.py[line:87] - INFO: raining/training loss:0.27212847359478476--7370
+2022-03-29 17:59:55 - train.py[line:87] - INFO: raining/training loss:0.1933802509214729--7390
+2022-03-29 17:59:57 - train.py[line:87] - INFO: raining/training loss:0.2226413137745112--7410
+2022-03-29 17:59:58 - train.py[line:87] - INFO: raining/training loss:0.1802610202343203--7430
+2022-03-29 18:00:00 - train.py[line:87] - INFO: raining/training loss:0.26575735039077697--7450
+2022-03-29 18:00:02 - train.py[line:87] - INFO: raining/training loss:0.2727771988604218--7470
+2022-03-29 18:00:04 - train.py[line:87] - INFO: raining/training loss:0.19044700034428388--7490
+2022-03-29 18:00:07 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.59      0.47      0.52       100
+          父母       0.83      0.79      0.81       228
+          夫妻       0.76      0.85      0.80       270
+          师生       0.81      0.72      0.76        54
+        兄弟姐妹       0.66      0.70      0.68        81
+          合作       0.83      0.77      0.80       110
+          情侣       0.74      0.75      0.75        57
+          祖孙       0.69      0.53      0.60        17
+          好友       0.70      0.70      0.70        27
+          亲戚       0.58      0.54      0.56        13
+          同门       0.65      0.83      0.73        24
+         上下级       0.61      0.74      0.67        19
+
+    accuracy                           0.75      1000
+   macro avg       0.70      0.70      0.70      1000
+weighted avg       0.75      0.75      0.75      1000
+
+2022-03-29 18:00:07 - train.py[line:119] - INFO: Validation/f1:0.7485224962673498---epoch:5
+2022-03-29 18:00:07 - train.py[line:120] - INFO: Validation/precision:0.7508251596153946---epoch:5
+2022-03-29 18:00:07 - train.py[line:121] - INFO: Validation/recall:0.751---epoch:5
+2022-03-29 18:00:07 - train.py[line:122] - INFO: Validation/accuracy:0.751---epoch:5
+2022-03-29 18:00:07 - train.py[line:67] - INFO: Epoch: 6
+2022-03-29 18:00:08 - train.py[line:87] - INFO: raining/training loss:0.15831124631222337--7500
+2022-03-29 18:00:09 - train.py[line:87] - INFO: raining/training loss:0.09134441456990317--7520
+2022-03-29 18:00:11 - train.py[line:87] - INFO: raining/training loss:0.12954557241173462--7540
+2022-03-29 18:00:13 - train.py[line:87] - INFO: raining/training loss:0.17823434788733722--7560
+2022-03-29 18:00:14 - train.py[line:87] - INFO: raining/training loss:0.14344955540727825--7580
+2022-03-29 18:00:16 - train.py[line:87] - INFO: raining/training loss:0.14519417427945883--7600
+2022-03-29 18:00:18 - train.py[line:87] - INFO: raining/training loss:0.10845373878255486--7620
+2022-03-29 18:00:19 - train.py[line:87] - INFO: raining/training loss:0.1580462332814932--7640
+2022-03-29 18:00:21 - train.py[line:87] - INFO: raining/training loss:0.14409393582027405--7660
+2022-03-29 18:00:23 - train.py[line:87] - INFO: raining/training loss:0.06977401862386615--7680
+2022-03-29 18:00:25 - train.py[line:87] - INFO: raining/training loss:0.11925314783584326--7700
+2022-03-29 18:00:26 - train.py[line:87] - INFO: raining/training loss:0.06634348937805043--7720
+2022-03-29 18:00:28 - train.py[line:87] - INFO: raining/training loss:0.12857682182802818--7740
+2022-03-29 18:00:30 - train.py[line:87] - INFO: raining/training loss:0.08142927224980667--7760
+2022-03-29 18:00:32 - train.py[line:87] - INFO: raining/training loss:0.09454086651094258--7780
+2022-03-29 18:00:33 - train.py[line:87] - INFO: raining/training loss:0.07683952507795766--7800
+2022-03-29 18:00:35 - train.py[line:87] - INFO: raining/training loss:0.052893459261395034--7820
+2022-03-29 18:00:37 - train.py[line:87] - INFO: raining/training loss:0.11694318007503171--7840
+2022-03-29 18:00:38 - train.py[line:87] - INFO: raining/training loss:0.10456109526276122--7860
+2022-03-29 18:00:40 - train.py[line:87] - INFO: raining/training loss:0.0867720331356395--7880
+2022-03-29 18:00:42 - train.py[line:87] - INFO: raining/training loss:0.10914630262413993--7900
+2022-03-29 18:00:44 - train.py[line:87] - INFO: raining/training loss:0.0883129055146128--7920
+2022-03-29 18:00:45 - train.py[line:87] - INFO: raining/training loss:0.061882760701701046--7940
+2022-03-29 18:00:47 - train.py[line:87] - INFO: raining/training loss:0.08957330223638564--7960
+2022-03-29 18:00:49 - train.py[line:87] - INFO: raining/training loss:0.09082828894024715--7980
+2022-03-29 18:00:50 - train.py[line:87] - INFO: raining/training loss:0.07246912107220851--8000
+2022-03-29 18:00:52 - train.py[line:87] - INFO: raining/training loss:0.08400303372181953--8020
+2022-03-29 18:00:54 - train.py[line:87] - INFO: raining/training loss:0.12276149231474846--8040
+2022-03-29 18:00:56 - train.py[line:87] - INFO: raining/training loss:0.11714388164982666--8060
+2022-03-29 18:00:57 - train.py[line:87] - INFO: raining/training loss:0.1104066228494048--8080
+2022-03-29 18:00:59 - train.py[line:87] - INFO: raining/training loss:0.09054350240621716--8100
+2022-03-29 18:01:01 - train.py[line:87] - INFO: raining/training loss:0.040983556990977374--8120
+2022-03-29 18:01:02 - train.py[line:87] - INFO: raining/training loss:0.09456247217021882--8140
+2022-03-29 18:01:04 - train.py[line:87] - INFO: raining/training loss:0.11411215872503817--8160
+2022-03-29 18:01:06 - train.py[line:87] - INFO: raining/training loss:0.27434549599420277--8180
+2022-03-29 18:01:08 - train.py[line:87] - INFO: raining/training loss:0.10763591927243396--8200
+2022-03-29 18:01:09 - train.py[line:87] - INFO: raining/training loss:0.16234390937606805--8220
+2022-03-29 18:01:11 - train.py[line:87] - INFO: raining/training loss:0.06955508498940617--8240
+2022-03-29 18:01:13 - train.py[line:87] - INFO: raining/training loss:0.08230753666139208--8260
+2022-03-29 18:01:14 - train.py[line:87] - INFO: raining/training loss:0.0439573245414067--8280
+2022-03-29 18:01:16 - train.py[line:87] - INFO: raining/training loss:0.08553490973426961--8300
+2022-03-29 18:01:18 - train.py[line:87] - INFO: raining/training loss:0.09508979465463199--8320
+2022-03-29 18:01:19 - train.py[line:87] - INFO: raining/training loss:0.1183300492237322--8340
+2022-03-29 18:01:21 - train.py[line:87] - INFO: raining/training loss:0.09013922748854383--8360
+2022-03-29 18:01:23 - train.py[line:87] - INFO: raining/training loss:0.051895223412429914--8380
+2022-03-29 18:01:25 - train.py[line:87] - INFO: raining/training loss:0.10888867849716917--8400
+2022-03-29 18:01:26 - train.py[line:87] - INFO: raining/training loss:0.1475487235817127--8420
+2022-03-29 18:01:28 - train.py[line:87] - INFO: raining/training loss:0.10253581908182241--8440
+2022-03-29 18:01:30 - train.py[line:87] - INFO: raining/training loss:0.10444866327452473--8460
+2022-03-29 18:01:31 - train.py[line:87] - INFO: raining/training loss:0.0982286220532842--8480
+2022-03-29 18:01:33 - train.py[line:87] - INFO: raining/training loss:0.19016501314472406--8500
+2022-03-29 18:01:35 - train.py[line:87] - INFO: raining/training loss:0.17837639698991553--8520
+2022-03-29 18:01:37 - train.py[line:87] - INFO: raining/training loss:0.14646138956304638--8540
+2022-03-29 18:01:38 - train.py[line:87] - INFO: raining/training loss:0.21695244619622828--8560
+2022-03-29 18:01:40 - train.py[line:87] - INFO: raining/training loss:0.17576423091813922--8580
+2022-03-29 18:01:42 - train.py[line:87] - INFO: raining/training loss:0.06146095253061503--8600
+2022-03-29 18:01:43 - train.py[line:87] - INFO: raining/training loss:0.12158489642897621--8620
+2022-03-29 18:01:45 - train.py[line:87] - INFO: raining/training loss:0.0911967319669202--8640
+2022-03-29 18:01:47 - train.py[line:87] - INFO: raining/training loss:0.22264750499743968--8660
+2022-03-29 18:01:49 - train.py[line:87] - INFO: raining/training loss:0.19145845209714024--8680
+2022-03-29 18:01:50 - train.py[line:87] - INFO: raining/training loss:0.16073058417532593--8700
+2022-03-29 18:01:52 - train.py[line:87] - INFO: raining/training loss:0.1389671051641926--8720
+2022-03-29 18:01:54 - train.py[line:87] - INFO: raining/training loss:0.08739845483796671--8740
+2022-03-29 18:01:58 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.57      0.51      0.54       100
+          父母       0.74      0.88      0.80       228
+          夫妻       0.88      0.76      0.81       270
+          师生       0.78      0.67      0.72        54
+        兄弟姐妹       0.65      0.63      0.64        81
+          合作       0.81      0.80      0.80       110
+          情侣       0.73      0.84      0.78        57
+          祖孙       0.60      0.53      0.56        17
+          好友       0.67      0.67      0.67        27
+          亲戚       0.53      0.77      0.62        13
+          同门       0.78      0.75      0.77        24
+         上下级       0.65      0.79      0.71        19
+
+    accuracy                           0.75      1000
+   macro avg       0.70      0.72      0.70      1000
+weighted avg       0.75      0.75      0.75      1000
+
+2022-03-29 18:01:58 - train.py[line:119] - INFO: Validation/f1:0.7478122444098562---epoch:6
+2022-03-29 18:01:58 - train.py[line:120] - INFO: Validation/precision:0.7542660651252409---epoch:6
+2022-03-29 18:01:58 - train.py[line:121] - INFO: Validation/recall:0.749---epoch:6
+2022-03-29 18:01:58 - train.py[line:122] - INFO: Validation/accuracy:0.749---epoch:6
+2022-03-29 18:01:58 - train.py[line:67] - INFO: Epoch: 7
+2022-03-29 18:01:58 - train.py[line:87] - INFO: raining/training loss:0.03696534981718287--8750
+2022-03-29 18:01:59 - train.py[line:87] - INFO: raining/training loss:0.09916494782082737--8770
+2022-03-29 18:02:01 - train.py[line:87] - INFO: raining/training loss:0.057986543944571166--8790
+2022-03-29 18:02:03 - train.py[line:87] - INFO: raining/training loss:0.0408919187320862--8810
+2022-03-29 18:02:04 - train.py[line:87] - INFO: raining/training loss:0.06768782382714562--8830
+2022-03-29 18:02:06 - train.py[line:87] - INFO: raining/training loss:0.047058919712435456--8850
+2022-03-29 18:02:08 - train.py[line:87] - INFO: raining/training loss:0.1342367472447222--8870
+2022-03-29 18:02:10 - train.py[line:87] - INFO: raining/training loss:0.14297817749902605--8890
+2022-03-29 18:02:11 - train.py[line:87] - INFO: raining/training loss:0.05394519355613738--8910
+2022-03-29 18:02:13 - train.py[line:87] - INFO: raining/training loss:0.05109352520375978--8930
+2022-03-29 18:02:15 - train.py[line:87] - INFO: raining/training loss:0.035652498196577655--8950
+2022-03-29 18:02:16 - train.py[line:87] - INFO: raining/training loss:0.10401453852537088--8970
+2022-03-29 18:02:18 - train.py[line:87] - INFO: raining/training loss:0.1091057982062921--8990
+2022-03-29 18:02:20 - train.py[line:87] - INFO: raining/training loss:0.10432291859469842--9010
+2022-03-29 18:02:21 - train.py[line:87] - INFO: raining/training loss:0.048358239958179186--9030
+2022-03-29 18:02:23 - train.py[line:87] - INFO: raining/training loss:0.13196112616569736--9050
+2022-03-29 18:02:25 - train.py[line:87] - INFO: raining/training loss:0.0997005958808586--9070
+2022-03-29 18:02:26 - train.py[line:87] - INFO: raining/training loss:0.09231351562775672--9090
+2022-03-29 18:02:28 - train.py[line:87] - INFO: raining/training loss:0.07985665104351938--9110
+2022-03-29 18:02:30 - train.py[line:87] - INFO: raining/training loss:0.05016341403243132--9130
+2022-03-29 18:02:31 - train.py[line:87] - INFO: raining/training loss:0.08783494149683975--9150
+2022-03-29 18:02:33 - train.py[line:87] - INFO: raining/training loss:0.12463763327104971--9170
+2022-03-29 18:02:35 - train.py[line:87] - INFO: raining/training loss:0.07831032345711719--9190
+2022-03-29 18:02:36 - train.py[line:87] - INFO: raining/training loss:0.0963040053131408--9210
+2022-03-29 18:02:38 - train.py[line:87] - INFO: raining/training loss:0.0505375363631174--9230
+2022-03-29 18:02:40 - train.py[line:87] - INFO: raining/training loss:0.12134371885331348--9250
+2022-03-29 18:02:41 - train.py[line:87] - INFO: raining/training loss:0.05300294773769565--9270
+2022-03-29 18:02:43 - train.py[line:87] - INFO: raining/training loss:0.09281929256394506--9290
+2022-03-29 18:02:45 - train.py[line:87] - INFO: raining/training loss:0.05023766797967255--9310
+2022-03-29 18:02:47 - train.py[line:87] - INFO: raining/training loss:0.026515750971157104--9330
+2022-03-29 18:02:48 - train.py[line:87] - INFO: raining/training loss:0.09554781091865153--9350
+2022-03-29 18:02:50 - train.py[line:87] - INFO: raining/training loss:0.11228802895348053--9370
+2022-03-29 18:02:52 - train.py[line:87] - INFO: raining/training loss:0.07412950716970954--9390
+2022-03-29 18:02:54 - train.py[line:87] - INFO: raining/training loss:0.055787059012800455--9410
+2022-03-29 18:02:55 - train.py[line:87] - INFO: raining/training loss:0.07406833813292905--9430
+2022-03-29 18:02:57 - train.py[line:87] - INFO: raining/training loss:0.05040747962193563--9450
+2022-03-29 18:02:58 - train.py[line:87] - INFO: raining/training loss:0.11313676980789751--9470
+2022-03-29 18:03:00 - train.py[line:87] - INFO: raining/training loss:0.0738914124231087--9490
+2022-03-29 18:03:02 - train.py[line:87] - INFO: raining/training loss:0.12632890470558777--9510
+2022-03-29 18:03:04 - train.py[line:87] - INFO: raining/training loss:0.08369287056848407--9530
+2022-03-29 18:03:05 - train.py[line:87] - INFO: raining/training loss:0.070999597851187--9550
+2022-03-29 18:03:07 - train.py[line:87] - INFO: raining/training loss:0.0930562070920132--9570
+2022-03-29 18:03:09 - train.py[line:87] - INFO: raining/training loss:0.055373858302482405--9590
+2022-03-29 18:03:10 - train.py[line:87] - INFO: raining/training loss:0.08359708665520885--9610
+2022-03-29 18:03:12 - train.py[line:87] - INFO: raining/training loss:0.13057913690863643--9630
+2022-03-29 18:03:14 - train.py[line:87] - INFO: raining/training loss:0.16253921446623282--9650
+2022-03-29 18:03:15 - train.py[line:87] - INFO: raining/training loss:0.12034920426667668--9670
+2022-03-29 18:03:17 - train.py[line:87] - INFO: raining/training loss:0.11010336638428271--9690
+2022-03-29 18:03:19 - train.py[line:87] - INFO: raining/training loss:0.17376361528877168--9710
+2022-03-29 18:03:20 - train.py[line:87] - INFO: raining/training loss:0.14662587291095405--9730
+2022-03-29 18:03:22 - train.py[line:87] - INFO: raining/training loss:0.18551989675033836--9750
+2022-03-29 18:03:24 - train.py[line:87] - INFO: raining/training loss:0.20756502335425467--9770
+2022-03-29 18:03:25 - train.py[line:87] - INFO: raining/training loss:0.12248460683622397--9790
+2022-03-29 18:03:27 - train.py[line:87] - INFO: raining/training loss:0.13094367590965703--9810
+2022-03-29 18:03:29 - train.py[line:87] - INFO: raining/training loss:0.12085935249924659--9830
+2022-03-29 18:03:30 - train.py[line:87] - INFO: raining/training loss:0.16275949296541511--9850
+2022-03-29 18:03:32 - train.py[line:87] - INFO: raining/training loss:0.10650067126844079--9870
+2022-03-29 18:03:34 - train.py[line:87] - INFO: raining/training loss:0.0791384473675862--9890
+2022-03-29 18:03:36 - train.py[line:87] - INFO: raining/training loss:0.07157102228957228--9910
+2022-03-29 18:03:37 - train.py[line:87] - INFO: raining/training loss:0.07595198826165869--9930
+2022-03-29 18:03:39 - train.py[line:87] - INFO: raining/training loss:0.1357630686427001--9950
+2022-03-29 18:03:41 - train.py[line:87] - INFO: raining/training loss:0.16148663009662415--9970
+2022-03-29 18:03:42 - train.py[line:87] - INFO: raining/training loss:0.11301390581938904--9990
+2022-03-29 18:03:46 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.52      0.58      0.55       100
+          父母       0.78      0.81      0.80       228
+          夫妻       0.76      0.89      0.82       270
+          师生       0.88      0.52      0.65        54
+        兄弟姐妹       0.75      0.68      0.71        81
+          合作       0.85      0.71      0.77       110
+          情侣       0.84      0.75      0.80        57
+          祖孙       0.62      0.59      0.61        17
+          好友       0.67      0.59      0.63        27
+          亲戚       0.40      0.31      0.35        13
+          同门       0.77      0.71      0.74        24
+         上下级       0.81      0.68      0.74        19
+
+    accuracy                           0.75      1000
+   macro avg       0.72      0.65      0.68      1000
+weighted avg       0.75      0.75      0.74      1000
+
+2022-03-29 18:03:46 - train.py[line:119] - INFO: Validation/f1:0.7437304001325026---epoch:7
+2022-03-29 18:03:46 - train.py[line:120] - INFO: Validation/precision:0.7520225855875187---epoch:7
+2022-03-29 18:03:46 - train.py[line:121] - INFO: Validation/recall:0.746---epoch:7
+2022-03-29 18:03:46 - train.py[line:122] - INFO: Validation/accuracy:0.746---epoch:7
+2022-03-29 18:03:46 - train.py[line:67] - INFO: Epoch: 8
+2022-03-29 18:03:46 - train.py[line:87] - INFO: raining/training loss:0.09534757193177938--10000
+2022-03-29 18:03:48 - train.py[line:87] - INFO: raining/training loss:0.054870755440788344--10020
+2022-03-29 18:03:50 - train.py[line:87] - INFO: raining/training loss:0.04116236930130981--10040
+2022-03-29 18:03:52 - train.py[line:87] - INFO: raining/training loss:0.16029948114883155--10060
+2022-03-29 18:03:53 - train.py[line:87] - INFO: raining/training loss:0.06643378146691248--10080
+2022-03-29 18:03:55 - train.py[line:87] - INFO: raining/training loss:0.028907221963163466--10100
+2022-03-29 18:03:57 - train.py[line:87] - INFO: raining/training loss:0.08554215799085796--10120
+2022-03-29 18:03:58 - train.py[line:87] - INFO: raining/training loss:0.05294414719101041--10140
+2022-03-29 18:04:00 - train.py[line:87] - INFO: raining/training loss:0.1634096001042053--10160
+2022-03-29 18:04:02 - train.py[line:87] - INFO: raining/training loss:0.10298362164758146--10180
+2022-03-29 18:04:03 - train.py[line:87] - INFO: raining/training loss:0.21540147821651773--10200
+2022-03-29 18:04:05 - train.py[line:87] - INFO: raining/training loss:0.0730863768258132--10220
+2022-03-29 18:04:07 - train.py[line:87] - INFO: raining/training loss:0.030845179478637873--10240
+2022-03-29 18:04:08 - train.py[line:87] - INFO: raining/training loss:0.03572309797164053--10260
+2022-03-29 18:04:10 - train.py[line:87] - INFO: raining/training loss:0.10024505170295014--10280
+2022-03-29 18:04:12 - train.py[line:87] - INFO: raining/training loss:0.09188247296842747--10300
+2022-03-29 18:04:14 - train.py[line:87] - INFO: raining/training loss:0.17873165442724712--10320
+2022-03-29 18:04:15 - train.py[line:87] - INFO: raining/training loss:0.06976427476620302--10340
+2022-03-29 18:04:17 - train.py[line:87] - INFO: raining/training loss:0.02406409938703291--10360
+2022-03-29 18:04:19 - train.py[line:87] - INFO: raining/training loss:0.05216628152120393--10380
+2022-03-29 18:04:20 - train.py[line:87] - INFO: raining/training loss:0.03763484742376022--10400
+2022-03-29 18:04:22 - train.py[line:87] - INFO: raining/training loss:0.10147235600452405--10420
+2022-03-29 18:04:24 - train.py[line:87] - INFO: raining/training loss:0.09948291076289024--10440
+2022-03-29 18:04:25 - train.py[line:87] - INFO: raining/training loss:0.051429531510802914--10460
+2022-03-29 18:04:27 - train.py[line:87] - INFO: raining/training loss:0.11055573231424205--10480
+2022-03-29 18:04:29 - train.py[line:87] - INFO: raining/training loss:0.09705023651476949--10500
+2022-03-29 18:04:31 - train.py[line:87] - INFO: raining/training loss:0.10044535568449646--10520
+2022-03-29 18:04:32 - train.py[line:87] - INFO: raining/training loss:0.10002239124733023--10540
+2022-03-29 18:04:34 - train.py[line:87] - INFO: raining/training loss:0.10984964480157941--10560
+2022-03-29 18:04:36 - train.py[line:87] - INFO: raining/training loss:0.15155471616890281--10580
+2022-03-29 18:04:37 - train.py[line:87] - INFO: raining/training loss:0.06481832955032588--10600
+2022-03-29 18:04:39 - train.py[line:87] - INFO: raining/training loss:0.09587377232965082--10620
+2022-03-29 18:04:41 - train.py[line:87] - INFO: raining/training loss:0.07813728874316439--10640
+2022-03-29 18:04:42 - train.py[line:87] - INFO: raining/training loss:0.039241223013959825--10660
+2022-03-29 18:04:44 - train.py[line:87] - INFO: raining/training loss:0.04022952131344937--10680
+2022-03-29 18:04:46 - train.py[line:87] - INFO: raining/training loss:0.15354138956172392--10700
+2022-03-29 18:04:48 - train.py[line:87] - INFO: raining/training loss:0.08951268385862932--10720
+2022-03-29 18:04:49 - train.py[line:87] - INFO: raining/training loss:0.06631991246249527--10740
+2022-03-29 18:04:51 - train.py[line:87] - INFO: raining/training loss:0.09177898130146786--10760
+2022-03-29 18:04:53 - train.py[line:87] - INFO: raining/training loss:0.0688584653311409--10780
+2022-03-29 18:04:54 - train.py[line:87] - INFO: raining/training loss:0.06006212967040483--10800
+2022-03-29 18:04:56 - train.py[line:87] - INFO: raining/training loss:0.10420699722599239--10820
+2022-03-29 18:04:58 - train.py[line:87] - INFO: raining/training loss:0.1658831958018709--10840
+2022-03-29 18:04:59 - train.py[line:87] - INFO: raining/training loss:0.21204188360716217--10860
+2022-03-29 18:05:01 - train.py[line:87] - INFO: raining/training loss:0.1711761065525934--10880
+2022-03-29 18:05:03 - train.py[line:87] - INFO: raining/training loss:0.20380101334303619--10900
+2022-03-29 18:05:05 - train.py[line:87] - INFO: raining/training loss:0.16561229353537782--10920
+2022-03-29 18:05:06 - train.py[line:87] - INFO: raining/training loss:0.09051800681045279--10940
+2022-03-29 18:05:08 - train.py[line:87] - INFO: raining/training loss:0.10490905570331961--10960
+2022-03-29 18:05:10 - train.py[line:87] - INFO: raining/training loss:0.1550728626549244--10980
+2022-03-29 18:05:11 - train.py[line:87] - INFO: raining/training loss:0.2573857278097421--11000
+2022-03-29 18:05:13 - train.py[line:87] - INFO: raining/training loss:0.14499481895472854--11020
+2022-03-29 18:05:15 - train.py[line:87] - INFO: raining/training loss:0.06446002409793436--11040
+2022-03-29 18:05:16 - train.py[line:87] - INFO: raining/training loss:0.17234406843781472--11060
+2022-03-29 18:05:18 - train.py[line:87] - INFO: raining/training loss:0.09741303571499885--11080
+2022-03-29 18:05:20 - train.py[line:87] - INFO: raining/training loss:0.1719289855565876--11100
+2022-03-29 18:05:21 - train.py[line:87] - INFO: raining/training loss:0.07777135472279043--11120
+2022-03-29 18:05:23 - train.py[line:87] - INFO: raining/training loss:0.13317952353972942--11140
+2022-03-29 18:05:25 - train.py[line:87] - INFO: raining/training loss:0.1736632331740111--11160
+2022-03-29 18:05:26 - train.py[line:87] - INFO: raining/training loss:0.11775368545204401--11180
+2022-03-29 18:05:28 - train.py[line:87] - INFO: raining/training loss:0.044107505830470475--11200
+2022-03-29 18:05:30 - train.py[line:87] - INFO: raining/training loss:0.12532030128058977--11220
+2022-03-29 18:05:32 - train.py[line:87] - INFO: raining/training loss:0.0798739290330559--11240
+2022-03-29 18:05:35 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.54      0.44      0.48       100
+          父母       0.81      0.82      0.82       228
+          夫妻       0.78      0.91      0.84       270
+          师生       0.80      0.61      0.69        54
+        兄弟姐妹       0.76      0.59      0.67        81
+          合作       0.76      0.83      0.79       110
+          情侣       0.91      0.74      0.82        57
+          祖孙       0.56      0.59      0.57        17
+          好友       0.73      0.59      0.65        27
+          亲戚       0.48      0.77      0.59        13
+          同门       0.73      0.67      0.70        24
+         上下级       0.65      0.68      0.67        19
+
+    accuracy                           0.76      1000
+   macro avg       0.71      0.69      0.69      1000
+weighted avg       0.75      0.76      0.75      1000
+
+2022-03-29 18:05:36 - train.py[line:119] - INFO: Validation/f1:0.7500899216864085---epoch:8
+2022-03-29 18:05:36 - train.py[line:120] - INFO: Validation/precision:0.7547461246306421---epoch:8
+2022-03-29 18:05:36 - train.py[line:121] - INFO: Validation/recall:0.755---epoch:8
+2022-03-29 18:05:36 - train.py[line:122] - INFO: Validation/accuracy:0.755---epoch:8
+2022-03-29 18:05:36 - train.py[line:67] - INFO: Epoch: 9
+2022-03-29 18:05:37 - train.py[line:87] - INFO: raining/training loss:0.02382692863466218--11250
+2022-03-29 18:05:38 - train.py[line:87] - INFO: raining/training loss:0.03210896478267387--11270
+2022-03-29 18:05:40 - train.py[line:87] - INFO: raining/training loss:0.10124344229116104--11290
+2022-03-29 18:05:42 - train.py[line:87] - INFO: raining/training loss:0.04118592352606356--11310
+2022-03-29 18:05:43 - train.py[line:87] - INFO: raining/training loss:0.03611067071324214--11330
+2022-03-29 18:05:45 - train.py[line:87] - INFO: raining/training loss:0.02322007172915619--11350
+2022-03-29 18:05:47 - train.py[line:87] - INFO: raining/training loss:0.09879118122917134--11370
+2022-03-29 18:05:49 - train.py[line:87] - INFO: raining/training loss:0.04925597749534063--11390
+2022-03-29 18:05:50 - train.py[line:87] - INFO: raining/training loss:0.04485955245909281--11410
+2022-03-29 18:05:52 - train.py[line:87] - INFO: raining/training loss:0.037070980132557455--11430
+2022-03-29 18:05:54 - train.py[line:87] - INFO: raining/training loss:0.08104519133921713--11450
+2022-03-29 18:05:55 - train.py[line:87] - INFO: raining/training loss:0.0806620515882969--11470
+2022-03-29 18:05:57 - train.py[line:87] - INFO: raining/training loss:0.06234988681972027--11490
+2022-03-29 18:05:59 - train.py[line:87] - INFO: raining/training loss:0.05364086573245004--11510
+2022-03-29 18:06:00 - train.py[line:87] - INFO: raining/training loss:0.09743811614171136--11530
+2022-03-29 18:06:02 - train.py[line:87] - INFO: raining/training loss:0.12866331053955946--11550
+2022-03-29 18:06:04 - train.py[line:87] - INFO: raining/training loss:0.05501240164740011--11570
+2022-03-29 18:06:06 - train.py[line:87] - INFO: raining/training loss:0.057316491758683696--11590
+2022-03-29 18:06:07 - train.py[line:87] - INFO: raining/training loss:0.04364888298441656--11610
+2022-03-29 18:06:09 - train.py[line:87] - INFO: raining/training loss:0.15262688329385127--11630
+2022-03-29 18:06:11 - train.py[line:87] - INFO: raining/training loss:0.07368911835073959--11650
+2022-03-29 18:06:12 - train.py[line:87] - INFO: raining/training loss:0.08300798580166883--11670
+2022-03-29 18:06:14 - train.py[line:87] - INFO: raining/training loss:0.08605236592702567--11690
+2022-03-29 18:06:16 - train.py[line:87] - INFO: raining/training loss:0.06062379590293858--11710
+2022-03-29 18:06:18 - train.py[line:87] - INFO: raining/training loss:0.08849319685832598--11730
+2022-03-29 18:06:19 - train.py[line:87] - INFO: raining/training loss:0.029460709419799967--11750
+2022-03-29 18:06:21 - train.py[line:87] - INFO: raining/training loss:0.05462363663828--11770
+2022-03-29 18:06:23 - train.py[line:87] - INFO: raining/training loss:0.06116147563152481--11790
+2022-03-29 18:06:24 - train.py[line:87] - INFO: raining/training loss:0.04294539106194861--11810
+2022-03-29 18:06:26 - train.py[line:87] - INFO: raining/training loss:0.20906565636396407--11830
+2022-03-29 18:06:28 - train.py[line:87] - INFO: raining/training loss:0.19013994857668876--11850
+2022-03-29 18:06:30 - train.py[line:87] - INFO: raining/training loss:0.06132977477682289--11870
+2022-03-29 18:06:31 - train.py[line:87] - INFO: raining/training loss:0.07497389492054936--11890
+2022-03-29 18:06:33 - train.py[line:87] - INFO: raining/training loss:0.12110744336969219--11910
+2022-03-29 18:06:35 - train.py[line:87] - INFO: raining/training loss:0.1083011172246188--11930
+2022-03-29 18:06:36 - train.py[line:87] - INFO: raining/training loss:0.08167843972914852--11950
+2022-03-29 18:06:38 - train.py[line:87] - INFO: raining/training loss:0.05433191594202071--11970
+2022-03-29 18:06:40 - train.py[line:87] - INFO: raining/training loss:0.048301736440043895--11990
+2022-03-29 18:06:41 - train.py[line:87] - INFO: raining/training loss:0.04317861072486266--12010
+2022-03-29 18:06:43 - train.py[line:87] - INFO: raining/training loss:0.024980642972514032--12030
+2022-03-29 18:06:45 - train.py[line:87] - INFO: raining/training loss:0.0985618177219294--12050
+2022-03-29 18:06:47 - train.py[line:87] - INFO: raining/training loss:0.020143359241774305--12070
+2022-03-29 18:06:48 - train.py[line:87] - INFO: raining/training loss:0.06197123636375181--12090
+2022-03-29 18:06:50 - train.py[line:87] - INFO: raining/training loss:0.0367948902741773--12110
+2022-03-29 18:06:52 - train.py[line:87] - INFO: raining/training loss:0.10221319845877588--12130
+2022-03-29 18:06:53 - train.py[line:87] - INFO: raining/training loss:0.024304001065320335--12150
+2022-03-29 18:06:55 - train.py[line:87] - INFO: raining/training loss:0.06470541751477868--12170
+2022-03-29 18:06:57 - train.py[line:87] - INFO: raining/training loss:0.02476231003238354--12190
+2022-03-29 18:06:58 - train.py[line:87] - INFO: raining/training loss:0.0252187807316659--12210
+2022-03-29 18:07:00 - train.py[line:87] - INFO: raining/training loss:0.07518955199047923--12230
+2022-03-29 18:07:02 - train.py[line:87] - INFO: raining/training loss:0.11376558096962981--12250
+2022-03-29 18:07:03 - train.py[line:87] - INFO: raining/training loss:0.0959189501038054--12270
+2022-03-29 18:07:05 - train.py[line:87] - INFO: raining/training loss:0.04171202549478039--12290
+2022-03-29 18:07:07 - train.py[line:87] - INFO: raining/training loss:0.07500899718143046--12310
+2022-03-29 18:07:09 - train.py[line:87] - INFO: raining/training loss:0.05841094736242667--12330
+2022-03-29 18:07:10 - train.py[line:87] - INFO: raining/training loss:0.042157622911327054--12350
+2022-03-29 18:07:12 - train.py[line:87] - INFO: raining/training loss:0.059806881139229516--12370
+2022-03-29 18:07:14 - train.py[line:87] - INFO: raining/training loss:0.14573889411985874--12390
+2022-03-29 18:07:15 - train.py[line:87] - INFO: raining/training loss:0.16288354960270227--12410
+2022-03-29 18:07:17 - train.py[line:87] - INFO: raining/training loss:0.11605589924147353--12430
+2022-03-29 18:07:19 - train.py[line:87] - INFO: raining/training loss:0.06357622322393582--12450
+2022-03-29 18:07:20 - train.py[line:87] - INFO: raining/training loss:0.16832198050105945--12470
+2022-03-29 18:07:22 - train.py[line:87] - INFO: raining/training loss:0.07153678784379736--12490
+2022-03-29 18:07:26 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.53      0.48      0.51       100
+          父母       0.85      0.80      0.82       228
+          夫妻       0.83      0.84      0.83       270
+          师生       0.80      0.72      0.76        54
+        兄弟姐妹       0.69      0.64      0.67        81
+          合作       0.69      0.84      0.75       110
+          情侣       0.85      0.72      0.78        57
+          祖孙       0.60      0.71      0.65        17
+          好友       0.63      0.63      0.63        27
+          亲戚       0.57      0.62      0.59        13
+          同门       0.51      0.79      0.62        24
+         上下级       0.74      0.74      0.74        19
+
+    accuracy                           0.75      1000
+   macro avg       0.69      0.71      0.70      1000
+weighted avg       0.75      0.75      0.75      1000
+
+2022-03-29 18:07:26 - train.py[line:119] - INFO: Validation/f1:0.7500730849105746---epoch:9
+2022-03-29 18:07:26 - train.py[line:120] - INFO: Validation/precision:0.7549785954395736---epoch:9
+2022-03-29 18:07:26 - train.py[line:121] - INFO: Validation/recall:0.75---epoch:9
+2022-03-29 18:07:26 - train.py[line:122] - INFO: Validation/accuracy:0.75---epoch:9
+2022-03-29 18:07:26 - train.py[line:67] - INFO: Epoch: 10
+2022-03-29 18:07:26 - train.py[line:87] - INFO: raining/training loss:0.10447841458953917--12500
+2022-03-29 18:07:28 - train.py[line:87] - INFO: raining/training loss:0.04757172247045673--12520
+2022-03-29 18:07:30 - train.py[line:87] - INFO: raining/training loss:0.06808508324320428--12540
+2022-03-29 18:07:31 - train.py[line:87] - INFO: raining/training loss:0.10913611653522821--12560
+2022-03-29 18:07:33 - train.py[line:87] - INFO: raining/training loss:0.07508035832724999--12580
+2022-03-29 18:07:35 - train.py[line:87] - INFO: raining/training loss:0.03260892578400672--12600
+2022-03-29 18:07:36 - train.py[line:87] - INFO: raining/training loss:0.03578490077634342--12620
+2022-03-29 18:07:38 - train.py[line:87] - INFO: raining/training loss:0.04027010797872208--12640
+2022-03-29 18:07:40 - train.py[line:87] - INFO: raining/training loss:0.0812453705468215--12660
+2022-03-29 18:07:41 - train.py[line:87] - INFO: raining/training loss:0.13015243849367836--12680
+2022-03-29 18:07:43 - train.py[line:87] - INFO: raining/training loss:0.09276766401890199--12700
+2022-03-29 18:07:45 - train.py[line:87] - INFO: raining/training loss:0.11055506956763565--12720
+2022-03-29 18:07:46 - train.py[line:87] - INFO: raining/training loss:0.08112434615613892--12740
+2022-03-29 18:07:48 - train.py[line:87] - INFO: raining/training loss:0.06875926904613153--12760
+2022-03-29 18:07:50 - train.py[line:87] - INFO: raining/training loss:0.023756681733357255--12780
+2022-03-29 18:07:51 - train.py[line:87] - INFO: raining/training loss:0.056604955781949684--12800
+2022-03-29 18:07:53 - train.py[line:87] - INFO: raining/training loss:0.04282919674296863--12820
+2022-03-29 18:07:55 - train.py[line:87] - INFO: raining/training loss:0.1216421679535415--12840
+2022-03-29 18:07:56 - train.py[line:87] - INFO: raining/training loss:0.08585408460930921--12860
+2022-03-29 18:07:58 - train.py[line:87] - INFO: raining/training loss:0.1034610371600138--12880
+2022-03-29 18:08:00 - train.py[line:87] - INFO: raining/training loss:0.04404463766841218--12900
+2022-03-29 18:08:01 - train.py[line:87] - INFO: raining/training loss:0.19149199456442148--12920
+2022-03-29 18:08:03 - train.py[line:87] - INFO: raining/training loss:0.07051770808175206--12940
+2022-03-29 18:08:05 - train.py[line:87] - INFO: raining/training loss:0.08226619784254581--12960
+2022-03-29 18:08:06 - train.py[line:87] - INFO: raining/training loss:0.035045032875495964--12980
+2022-03-29 18:08:08 - train.py[line:87] - INFO: raining/training loss:0.06486050070961938--13000
+2022-03-29 18:08:09 - train.py[line:87] - INFO: raining/training loss:0.0821699097956298--13020
+2022-03-29 18:08:11 - train.py[line:87] - INFO: raining/training loss:0.052818359865341336--13040
+2022-03-29 18:08:13 - train.py[line:87] - INFO: raining/training loss:0.07089740291339694--13060
+2022-03-29 18:08:14 - train.py[line:87] - INFO: raining/training loss:0.06942279734648764--13080
+2022-03-29 18:08:16 - train.py[line:87] - INFO: raining/training loss:0.03165253628976643--13100
+2022-03-29 18:08:18 - train.py[line:87] - INFO: raining/training loss:0.23962386999628507--13120
+2022-03-29 18:08:19 - train.py[line:87] - INFO: raining/training loss:0.09134293836541474--13140
+2022-03-29 18:08:21 - train.py[line:87] - INFO: raining/training loss:0.057582594966515896--13160
+2022-03-29 18:08:22 - train.py[line:87] - INFO: raining/training loss:0.04261309439898468--13180
+2022-03-29 18:08:24 - train.py[line:87] - INFO: raining/training loss:0.09773267535783817--13200
+2022-03-29 18:08:26 - train.py[line:87] - INFO: raining/training loss:0.17106495341286063--13220
+2022-03-29 18:08:28 - train.py[line:87] - INFO: raining/training loss:0.02936457491014153--13240
+2022-03-29 18:08:29 - train.py[line:87] - INFO: raining/training loss:0.13408967404975555--13260
+2022-03-29 18:08:31 - train.py[line:87] - INFO: raining/training loss:0.10306748511939076--13280
+2022-03-29 18:08:33 - train.py[line:87] - INFO: raining/training loss:0.08394447655882686--13300
+2022-03-29 18:08:34 - train.py[line:87] - INFO: raining/training loss:0.14061865402618423--13320
+2022-03-29 18:08:36 - train.py[line:87] - INFO: raining/training loss:0.03625787171185948--13340
+2022-03-29 18:08:38 - train.py[line:87] - INFO: raining/training loss:0.08390377714531497--13360
+2022-03-29 18:08:40 - train.py[line:87] - INFO: raining/training loss:0.16141380284680054--13380
+2022-03-29 18:08:41 - train.py[line:87] - INFO: raining/training loss:0.12701347055844964--13400
+2022-03-29 18:08:43 - train.py[line:87] - INFO: raining/training loss:0.10880960805952782--13420
+2022-03-29 18:08:45 - train.py[line:87] - INFO: raining/training loss:0.05887991860799957--13440
+2022-03-29 18:08:46 - train.py[line:87] - INFO: raining/training loss:0.06108167618222069--13460
+2022-03-29 18:08:48 - train.py[line:87] - INFO: raining/training loss:0.2659814745071344--13480
+2022-03-29 18:08:50 - train.py[line:87] - INFO: raining/training loss:0.09855454246862791--13500
+2022-03-29 18:08:52 - train.py[line:87] - INFO: raining/training loss:0.08320460366085172--13520
+2022-03-29 18:08:53 - train.py[line:87] - INFO: raining/training loss:0.17161143872654067--13540
+2022-03-29 18:08:55 - train.py[line:87] - INFO: raining/training loss:0.02918981679249555--13560
+2022-03-29 18:08:57 - train.py[line:87] - INFO: raining/training loss:0.08720888067036867--13580
+2022-03-29 18:08:58 - train.py[line:87] - INFO: raining/training loss:0.06309269164921716--13600
+2022-03-29 18:09:00 - train.py[line:87] - INFO: raining/training loss:0.0739610234319116--13620
+2022-03-29 18:09:02 - train.py[line:87] - INFO: raining/training loss:0.08564302346785553--13640
+2022-03-29 18:09:03 - train.py[line:87] - INFO: raining/training loss:0.17825947278470267--13660
+2022-03-29 18:09:05 - train.py[line:87] - INFO: raining/training loss:0.14573164243483916--13680
+2022-03-29 18:09:07 - train.py[line:87] - INFO: raining/training loss:0.08815423983614892--13700
+2022-03-29 18:09:08 - train.py[line:87] - INFO: raining/training loss:0.11254000877524958--13720
+2022-03-29 18:09:10 - train.py[line:87] - INFO: raining/training loss:0.1048120845342055--13740
+2022-03-29 18:09:14 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.70      0.39      0.50       100
+          父母       0.82      0.79      0.81       228
+          夫妻       0.75      0.87      0.81       270
+          师生       0.80      0.72      0.76        54
+        兄弟姐妹       0.72      0.70      0.71        81
+          合作       0.83      0.80      0.81       110
+          情侣       0.74      0.81      0.77        57
+          祖孙       0.50      0.88      0.64        17
+          好友       0.76      0.70      0.73        27
+          亲戚       0.40      0.46      0.43        13
+          同门       0.81      0.71      0.76        24
+         上下级       0.61      0.74      0.67        19
+
+    accuracy                           0.76      1000
+   macro avg       0.70      0.72      0.70      1000
+weighted avg       0.76      0.76      0.75      1000
+
+2022-03-29 18:09:14 - train.py[line:119] - INFO: Validation/f1:0.7517071429752008---epoch:10
+2022-03-29 18:09:14 - train.py[line:120] - INFO: Validation/precision:0.7604021075593282---epoch:10
+2022-03-29 18:09:14 - train.py[line:121] - INFO: Validation/recall:0.757---epoch:10
+2022-03-29 18:09:14 - train.py[line:122] - INFO: Validation/accuracy:0.757---epoch:10
+2022-03-29 18:09:15 - train.py[line:67] - INFO: Epoch: 11
+2022-03-29 18:09:15 - train.py[line:87] - INFO: raining/training loss:0.09873306312365457--13750
+2022-03-29 18:09:17 - train.py[line:87] - INFO: raining/training loss:0.11670204034162453--13770
+2022-03-29 18:09:19 - train.py[line:87] - INFO: raining/training loss:0.07458113046595827--13790
+2022-03-29 18:09:20 - train.py[line:87] - INFO: raining/training loss:0.10188547612633556--13810
+2022-03-29 18:09:22 - train.py[line:87] - INFO: raining/training loss:0.031263429424143396--13830
+2022-03-29 18:09:24 - train.py[line:87] - INFO: raining/training loss:0.09837395552895031--13850
+2022-03-29 18:09:25 - train.py[line:87] - INFO: raining/training loss:0.04677246520295739--13870
+2022-03-29 18:09:27 - train.py[line:87] - INFO: raining/training loss:0.09106752042425796--13890
+2022-03-29 18:09:29 - train.py[line:87] - INFO: raining/training loss:0.07218532442348077--13910
+2022-03-29 18:09:30 - train.py[line:87] - INFO: raining/training loss:0.04486116644256981--13930
+2022-03-29 18:09:32 - train.py[line:87] - INFO: raining/training loss:0.08407535310980166--13950
+2022-03-29 18:09:34 - train.py[line:87] - INFO: raining/training loss:0.03923350548138842--13970
+2022-03-29 18:09:36 - train.py[line:87] - INFO: raining/training loss:0.07045067755971104--13990
+2022-03-29 18:09:37 - train.py[line:87] - INFO: raining/training loss:0.0590409475407796--14010
+2022-03-29 18:09:39 - train.py[line:87] - INFO: raining/training loss:0.11057047955982853--14030
+2022-03-29 18:09:41 - train.py[line:87] - INFO: raining/training loss:0.06558003892132547--14050
+2022-03-29 18:09:42 - train.py[line:87] - INFO: raining/training loss:0.06996038781944662--14070
+2022-03-29 18:09:44 - train.py[line:87] - INFO: raining/training loss:0.09188270854647271--14090
+2022-03-29 18:09:46 - train.py[line:87] - INFO: raining/training loss:0.1112194408022333--14110
+2022-03-29 18:09:47 - train.py[line:87] - INFO: raining/training loss:0.19412248458247633--14130
+2022-03-29 18:09:49 - train.py[line:87] - INFO: raining/training loss:0.038777545688208195--14150
+2022-03-29 18:09:51 - train.py[line:87] - INFO: raining/training loss:0.16027812607353553--14170
+2022-03-29 18:09:53 - train.py[line:87] - INFO: raining/training loss:0.05854723461670801--14190
+2022-03-29 18:09:54 - train.py[line:87] - INFO: raining/training loss:0.07762625451141503--14210
+2022-03-29 18:09:56 - train.py[line:87] - INFO: raining/training loss:0.0825792531715706--14230
+2022-03-29 18:09:58 - train.py[line:87] - INFO: raining/training loss:0.0957167052605655--14250
+2022-03-29 18:09:59 - train.py[line:87] - INFO: raining/training loss:0.11346965015400201--14270
+2022-03-29 18:10:01 - train.py[line:87] - INFO: raining/training loss:0.09555494466330856--14290
+2022-03-29 18:10:03 - train.py[line:87] - INFO: raining/training loss:0.12941996864392422--14310
+2022-03-29 18:10:04 - train.py[line:87] - INFO: raining/training loss:0.05660558785893954--14330
+2022-03-29 18:10:06 - train.py[line:87] - INFO: raining/training loss:0.046867857966572044--14350
+2022-03-29 18:10:08 - train.py[line:87] - INFO: raining/training loss:0.04635590331163257--14370
+2022-03-29 18:10:09 - train.py[line:87] - INFO: raining/training loss:0.04590759928687475--14390
+2022-03-29 18:10:11 - train.py[line:87] - INFO: raining/training loss:0.05818412033986533--14410
+2022-03-29 18:10:13 - train.py[line:87] - INFO: raining/training loss:0.04374460765102413--14430
+2022-03-29 18:10:14 - train.py[line:87] - INFO: raining/training loss:0.03864161142846569--14450
+2022-03-29 18:10:16 - train.py[line:87] - INFO: raining/training loss:0.06752735365007538--14470
+2022-03-29 18:10:18 - train.py[line:87] - INFO: raining/training loss:0.09669818236143328--14490
+2022-03-29 18:10:19 - train.py[line:87] - INFO: raining/training loss:0.09279726323438808--14510
+2022-03-29 18:10:21 - train.py[line:87] - INFO: raining/training loss:0.08545934712747112--14530
+2022-03-29 18:10:23 - train.py[line:87] - INFO: raining/training loss:0.055576830432983115--14550
+2022-03-29 18:10:25 - train.py[line:87] - INFO: raining/training loss:0.06925231823697686--14570
+2022-03-29 18:10:26 - train.py[line:87] - INFO: raining/training loss:0.033064501784974706--14590
+2022-03-29 18:10:28 - train.py[line:87] - INFO: raining/training loss:0.0686894363258034--14610
+2022-03-29 18:10:30 - train.py[line:87] - INFO: raining/training loss:0.1112318174506072--14630
+2022-03-29 18:10:31 - train.py[line:87] - INFO: raining/training loss:0.069681052188389--14650
+2022-03-29 18:10:33 - train.py[line:87] - INFO: raining/training loss:0.1093757331953384--14670
+2022-03-29 18:10:35 - train.py[line:87] - INFO: raining/training loss:0.1284178601956228--14690
+2022-03-29 18:10:37 - train.py[line:87] - INFO: raining/training loss:0.09830837485496886--14710
+2022-03-29 18:10:38 - train.py[line:87] - INFO: raining/training loss:0.06858514955383725--14730
+2022-03-29 18:10:40 - train.py[line:87] - INFO: raining/training loss:0.06297461098001804--14750
+2022-03-29 18:10:42 - train.py[line:87] - INFO: raining/training loss:0.04108295080368407--14770
+2022-03-29 18:10:43 - train.py[line:87] - INFO: raining/training loss:0.1006101881241193--14790
+2022-03-29 18:10:45 - train.py[line:87] - INFO: raining/training loss:0.16209605283802375--14810
+2022-03-29 18:10:47 - train.py[line:87] - INFO: raining/training loss:0.06224196295952424--14830
+2022-03-29 18:10:48 - train.py[line:87] - INFO: raining/training loss:0.05777450706809759--14850
+2022-03-29 18:10:50 - train.py[line:87] - INFO: raining/training loss:0.062228947042603976--14870
+2022-03-29 18:10:52 - train.py[line:87] - INFO: raining/training loss:0.10403325125516857--14890
+2022-03-29 18:10:54 - train.py[line:87] - INFO: raining/training loss:0.07817899850197137--14910
+2022-03-29 18:10:55 - train.py[line:87] - INFO: raining/training loss:0.07592077955778223--14930
+2022-03-29 18:10:57 - train.py[line:87] - INFO: raining/training loss:0.04022953798703384--14950
+2022-03-29 18:10:59 - train.py[line:87] - INFO: raining/training loss:0.08006086425448303--14970
+2022-03-29 18:11:00 - train.py[line:87] - INFO: raining/training loss:0.04090576115995646--14990
+2022-03-29 18:11:04 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.57      0.44      0.50       100
+          父母       0.85      0.80      0.82       228
+          夫妻       0.81      0.82      0.81       270
+          师生       0.80      0.65      0.71        54
+        兄弟姐妹       0.62      0.78      0.69        81
+          合作       0.76      0.83      0.79       110
+          情侣       0.84      0.82      0.83        57
+          祖孙       0.61      0.65      0.63        17
+          好友       0.68      0.78      0.72        27
+          亲戚       0.67      0.46      0.55        13
+          同门       0.59      0.71      0.64        24
+         上下级       0.52      0.79      0.62        19
+
+    accuracy                           0.75      1000
+   macro avg       0.69      0.71      0.69      1000
+weighted avg       0.76      0.75      0.75      1000
+
+2022-03-29 18:11:04 - train.py[line:119] - INFO: Validation/f1:0.7513486610990752---epoch:11
+2022-03-29 18:11:04 - train.py[line:120] - INFO: Validation/precision:0.7562994883336012---epoch:11
+2022-03-29 18:11:04 - train.py[line:121] - INFO: Validation/recall:0.753---epoch:11
+2022-03-29 18:11:04 - train.py[line:122] - INFO: Validation/accuracy:0.753---epoch:11
+2022-03-29 18:11:04 - train.py[line:67] - INFO: Epoch: 12
+2022-03-29 18:11:04 - train.py[line:87] - INFO: raining/training loss:0.04467285269638523--15000
+2022-03-29 18:11:06 - train.py[line:87] - INFO: raining/training loss:0.019972864050942007--15020
+2022-03-29 18:11:08 - train.py[line:87] - INFO: raining/training loss:0.06691230429569259--15040
+2022-03-29 18:11:10 - train.py[line:87] - INFO: raining/training loss:0.028371567488647997--15060
+2022-03-29 18:11:11 - train.py[line:87] - INFO: raining/training loss:0.1050651686877245--15080
+2022-03-29 18:11:13 - train.py[line:87] - INFO: raining/training loss:0.01421994874253869--15100
+2022-03-29 18:11:15 - train.py[line:87] - INFO: raining/training loss:0.016853349981829524--15120
+2022-03-29 18:11:16 - train.py[line:87] - INFO: raining/training loss:0.021537227484805042--15140
+2022-03-29 18:11:18 - train.py[line:87] - INFO: raining/training loss:0.04681960594607517--15160
+2022-03-29 18:11:20 - train.py[line:87] - INFO: raining/training loss:0.030127585060836282--15180
+2022-03-29 18:11:21 - train.py[line:87] - INFO: raining/training loss:0.042173747501510664--15200
+2022-03-29 18:11:23 - train.py[line:87] - INFO: raining/training loss:0.05444631843420211--15220
+2022-03-29 18:11:25 - train.py[line:87] - INFO: raining/training loss:0.04573257743322756--15240
+2022-03-29 18:11:26 - train.py[line:87] - INFO: raining/training loss:0.04659969654749148--15260
+2022-03-29 18:11:28 - train.py[line:87] - INFO: raining/training loss:0.055236974847503006--15280
+2022-03-29 18:11:30 - train.py[line:87] - INFO: raining/training loss:0.022709248104365542--15300
+2022-03-29 18:11:32 - train.py[line:87] - INFO: raining/training loss:0.056080693303374576--15320
+2022-03-29 18:11:33 - train.py[line:87] - INFO: raining/training loss:0.011681785417022184--15340
+2022-03-29 18:11:35 - train.py[line:87] - INFO: raining/training loss:0.03588383772148518--15360
+2022-03-29 18:11:37 - train.py[line:87] - INFO: raining/training loss:0.044312590110348535--15380
+2022-03-29 18:11:38 - train.py[line:87] - INFO: raining/training loss:0.026800441203522495--15400
+2022-03-29 18:11:40 - train.py[line:87] - INFO: raining/training loss:0.004917175872833468--15420
+2022-03-29 18:11:42 - train.py[line:87] - INFO: raining/training loss:0.03268121226283256--15440
+2022-03-29 18:11:43 - train.py[line:87] - INFO: raining/training loss:0.031392819284519646--15460
+2022-03-29 18:11:45 - train.py[line:87] - INFO: raining/training loss:0.030639676490682177--15480
+2022-03-29 18:11:47 - train.py[line:87] - INFO: raining/training loss:0.08923876306507736--15500
+2022-03-29 18:11:48 - train.py[line:87] - INFO: raining/training loss:0.04310393359482987--15520
+2022-03-29 18:11:50 - train.py[line:87] - INFO: raining/training loss:0.09057093965384411--15540
+2022-03-29 18:11:52 - train.py[line:87] - INFO: raining/training loss:0.11641997158294544--15560
+2022-03-29 18:11:54 - train.py[line:87] - INFO: raining/training loss:0.12882681961928028--15580
+2022-03-29 18:11:55 - train.py[line:87] - INFO: raining/training loss:0.04932902697764803--15600
+2022-03-29 18:11:57 - train.py[line:87] - INFO: raining/training loss:0.07587403878569603--15620
+2022-03-29 18:11:59 - train.py[line:87] - INFO: raining/training loss:0.04668281647172989--15640
+2022-03-29 18:12:00 - train.py[line:87] - INFO: raining/training loss:0.04721532314142678--15660
+2022-03-29 18:12:02 - train.py[line:87] - INFO: raining/training loss:0.04782610362890409--15680
+2022-03-29 18:12:04 - train.py[line:87] - INFO: raining/training loss:0.08966251799865858--15700
+2022-03-29 18:12:05 - train.py[line:87] - INFO: raining/training loss:0.06918286103173159--15720
+2022-03-29 18:12:07 - train.py[line:87] - INFO: raining/training loss:0.015605804360529874--15740
+2022-03-29 18:12:09 - train.py[line:87] - INFO: raining/training loss:0.0433676972068497--15760
+2022-03-29 18:12:10 - train.py[line:87] - INFO: raining/training loss:0.04850836616751621--15780
+2022-03-29 18:12:12 - train.py[line:87] - INFO: raining/training loss:0.03667323575646151--15800
+2022-03-29 18:12:14 - train.py[line:87] - INFO: raining/training loss:0.06342577953473665--15820
+2022-03-29 18:12:16 - train.py[line:87] - INFO: raining/training loss:0.050549152871826666--15840
+2022-03-29 18:12:17 - train.py[line:87] - INFO: raining/training loss:0.05686434983508661--15860
+2022-03-29 18:12:19 - train.py[line:87] - INFO: raining/training loss:0.09605411150841973--15880
+2022-03-29 18:12:21 - train.py[line:87] - INFO: raining/training loss:0.06407573324395344--15900
+2022-03-29 18:12:22 - train.py[line:87] - INFO: raining/training loss:0.1028291122012888--15920
+2022-03-29 18:12:24 - train.py[line:87] - INFO: raining/training loss:0.06875827102339827--15940
+2022-03-29 18:12:26 - train.py[line:87] - INFO: raining/training loss:0.04824472116306424--15960
+2022-03-29 18:12:28 - train.py[line:87] - INFO: raining/training loss:0.04261791184544563--15980
+2022-03-29 18:12:29 - train.py[line:87] - INFO: raining/training loss:0.11164967686636373--16000
+2022-03-29 18:12:31 - train.py[line:87] - INFO: raining/training loss:0.10367396710644243--16020
+2022-03-29 18:12:33 - train.py[line:87] - INFO: raining/training loss:0.08781510356930085--16040
+2022-03-29 18:12:34 - train.py[line:87] - INFO: raining/training loss:0.046029721069498916--16060
+2022-03-29 18:12:36 - train.py[line:87] - INFO: raining/training loss:0.09124712096527218--16080
+2022-03-29 18:12:38 - train.py[line:87] - INFO: raining/training loss:0.10432631257572211--16100
+2022-03-29 18:12:40 - train.py[line:87] - INFO: raining/training loss:0.20281397044891492--16120
+2022-03-29 18:12:41 - train.py[line:87] - INFO: raining/training loss:0.12037254436145303--16140
+2022-03-29 18:12:43 - train.py[line:87] - INFO: raining/training loss:0.18794724917970598--16160
+2022-03-29 18:12:45 - train.py[line:87] - INFO: raining/training loss:0.23687397296307608--16180
+2022-03-29 18:12:46 - train.py[line:87] - INFO: raining/training loss:0.13787986133247615--16200
+2022-03-29 18:12:48 - train.py[line:87] - INFO: raining/training loss:0.1536521129310131--16220
+2022-03-29 18:12:50 - train.py[line:87] - INFO: raining/training loss:0.06538865267648361--16240
+2022-03-29 18:12:54 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.58      0.44      0.50       100
+          父母       0.82      0.81      0.81       228
+          夫妻       0.78      0.84      0.81       270
+          师生       0.72      0.61      0.66        54
+        兄弟姐妹       0.76      0.59      0.67        81
+          合作       0.83      0.77      0.80       110
+          情侣       0.78      0.88      0.83        57
+          祖孙       0.56      0.82      0.67        17
+          好友       0.70      0.70      0.70        27
+          亲戚       0.39      0.69      0.50        13
+          同门       0.57      0.83      0.68        24
+         上下级       0.57      0.68      0.62        19
+
+    accuracy                           0.75      1000
+   macro avg       0.67      0.72      0.69      1000
+weighted avg       0.75      0.75      0.74      1000
+
+2022-03-29 18:12:54 - train.py[line:119] - INFO: Validation/f1:0.7445051934103252---epoch:12
+2022-03-29 18:12:54 - train.py[line:120] - INFO: Validation/precision:0.7506061674145583---epoch:12
+2022-03-29 18:12:54 - train.py[line:121] - INFO: Validation/recall:0.747---epoch:12
+2022-03-29 18:12:54 - train.py[line:122] - INFO: Validation/accuracy:0.747---epoch:12
+2022-03-29 18:12:54 - train.py[line:67] - INFO: Epoch: 13
+2022-03-29 18:12:54 - train.py[line:87] - INFO: raining/training loss:0.0717632592539303--16250
+2022-03-29 18:12:56 - train.py[line:87] - INFO: raining/training loss:0.0949263870192226--16270
+2022-03-29 18:12:57 - train.py[line:87] - INFO: raining/training loss:0.1551209369499702--16290
+2022-03-29 18:12:59 - train.py[line:87] - INFO: raining/training loss:0.12754525179043413--16310
+2022-03-29 18:13:01 - train.py[line:87] - INFO: raining/training loss:0.05946492733201012--16330
+2022-03-29 18:13:03 - train.py[line:87] - INFO: raining/training loss:0.08200335539877415--16350
+2022-03-29 18:13:04 - train.py[line:87] - INFO: raining/training loss:0.06983605478017126--16370
+2022-03-29 18:13:06 - train.py[line:87] - INFO: raining/training loss:0.04240242179948837--16390
+2022-03-29 18:13:08 - train.py[line:87] - INFO: raining/training loss:0.08628298942930997--16410
+2022-03-29 18:13:09 - train.py[line:87] - INFO: raining/training loss:0.08559649834642187--16430
+2022-03-29 18:13:11 - train.py[line:87] - INFO: raining/training loss:0.13586928145086857--16450
+2022-03-29 18:13:13 - train.py[line:87] - INFO: raining/training loss:0.08539552021247801--16470
+2022-03-29 18:13:14 - train.py[line:87] - INFO: raining/training loss:0.06903403989563231--16490
+2022-03-29 18:13:16 - train.py[line:87] - INFO: raining/training loss:0.02828927192167612--16510
+2022-03-29 18:13:18 - train.py[line:87] - INFO: raining/training loss:0.03714408289524727--16530
+2022-03-29 18:13:20 - train.py[line:87] - INFO: raining/training loss:0.019453451797016897--16550
+2022-03-29 18:13:21 - train.py[line:87] - INFO: raining/training loss:0.03445246512419544--16570
+2022-03-29 18:13:23 - train.py[line:87] - INFO: raining/training loss:0.014267353792092763--16590
+2022-03-29 18:13:25 - train.py[line:87] - INFO: raining/training loss:0.03395829079672694--16610
+2022-03-29 18:13:26 - train.py[line:87] - INFO: raining/training loss:0.08232945294003002--16630
+2022-03-29 18:13:28 - train.py[line:87] - INFO: raining/training loss:0.022083543321787146--16650
+2022-03-29 18:13:30 - train.py[line:87] - INFO: raining/training loss:0.02913359872327419--16670
+2022-03-29 18:13:31 - train.py[line:87] - INFO: raining/training loss:0.05613229882728774--16690
+2022-03-29 18:13:33 - train.py[line:87] - INFO: raining/training loss:0.017501911832368933--16710
+2022-03-29 18:13:35 - train.py[line:87] - INFO: raining/training loss:0.05161940707912436--16730
+2022-03-29 18:13:36 - train.py[line:87] - INFO: raining/training loss:0.02393669692100957--16750
+2022-03-29 18:13:38 - train.py[line:87] - INFO: raining/training loss:0.09430568384705111--16770
+2022-03-29 18:13:40 - train.py[line:87] - INFO: raining/training loss:0.035339529375778514--16790
+2022-03-29 18:13:42 - train.py[line:87] - INFO: raining/training loss:0.04484624389297096--16810
+2022-03-29 18:13:43 - train.py[line:87] - INFO: raining/training loss:0.06454692016995978--16830
+2022-03-29 18:13:45 - train.py[line:87] - INFO: raining/training loss:0.046317999131861146--16850
+2022-03-29 18:13:47 - train.py[line:87] - INFO: raining/training loss:0.097180002713867--16870
+2022-03-29 18:13:48 - train.py[line:87] - INFO: raining/training loss:0.15303040976286866--16890
+2022-03-29 18:13:50 - train.py[line:87] - INFO: raining/training loss:0.053860177349997686--16910
+2022-03-29 18:13:52 - train.py[line:87] - INFO: raining/training loss:0.105350492396974--16930
+2022-03-29 18:13:54 - train.py[line:87] - INFO: raining/training loss:0.04973782454617322--16950
+2022-03-29 18:13:55 - train.py[line:87] - INFO: raining/training loss:0.0960646222854848--16970
+2022-03-29 18:13:57 - train.py[line:87] - INFO: raining/training loss:0.0651311402907595--16990
+2022-03-29 18:13:59 - train.py[line:87] - INFO: raining/training loss:0.07909120089898351--17010
+2022-03-29 18:14:00 - train.py[line:87] - INFO: raining/training loss:0.1337817954190541--17030
+2022-03-29 18:14:02 - train.py[line:87] - INFO: raining/training loss:0.08454243094456615--17050
+2022-03-29 18:14:04 - train.py[line:87] - INFO: raining/training loss:0.11617424817522988--17070
+2022-03-29 18:14:06 - train.py[line:87] - INFO: raining/training loss:0.06090293348534033--17090
+2022-03-29 18:14:07 - train.py[line:87] - INFO: raining/training loss:0.044104241678724065--17110
+2022-03-29 18:14:09 - train.py[line:87] - INFO: raining/training loss:0.030679467227309944--17130
+2022-03-29 18:14:11 - train.py[line:87] - INFO: raining/training loss:0.06140322388964705--17150
+2022-03-29 18:14:12 - train.py[line:87] - INFO: raining/training loss:0.08469596659415402--17170
+2022-03-29 18:14:14 - train.py[line:87] - INFO: raining/training loss:0.09763011268223636--17190
+2022-03-29 18:14:16 - train.py[line:87] - INFO: raining/training loss:0.07016588509141002--17210
+2022-03-29 18:14:17 - train.py[line:87] - INFO: raining/training loss:0.07517101524863393--17230
+2022-03-29 18:14:19 - train.py[line:87] - INFO: raining/training loss:0.12631701874779538--17250
+2022-03-29 18:14:21 - train.py[line:87] - INFO: raining/training loss:0.14270989121869207--17270
+2022-03-29 18:14:22 - train.py[line:87] - INFO: raining/training loss:0.04189928214036627--17290
+2022-03-29 18:14:24 - train.py[line:87] - INFO: raining/training loss:0.03119478560402058--17310
+2022-03-29 18:14:26 - train.py[line:87] - INFO: raining/training loss:0.024731396562128794--17330
+2022-03-29 18:14:27 - train.py[line:87] - INFO: raining/training loss:0.06131556972977705--17350
+2022-03-29 18:14:29 - train.py[line:87] - INFO: raining/training loss:0.05513954838970676--17370
+2022-03-29 18:14:31 - train.py[line:87] - INFO: raining/training loss:0.102502466092119--17390
+2022-03-29 18:14:33 - train.py[line:87] - INFO: raining/training loss:0.05944826796621783--17410
+2022-03-29 18:14:34 - train.py[line:87] - INFO: raining/training loss:0.09479584744549356--17430
+2022-03-29 18:14:36 - train.py[line:87] - INFO: raining/training loss:0.12588759905193--17450
+2022-03-29 18:14:38 - train.py[line:87] - INFO: raining/training loss:0.06628936192573746--17470
+2022-03-29 18:14:39 - train.py[line:87] - INFO: raining/training loss:0.01983343400643207--17490
+2022-03-29 18:14:43 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.55      0.53      0.54       100
+          父母       0.81      0.81      0.81       228
+          夫妻       0.87      0.78      0.82       270
+          师生       0.53      0.78      0.63        54
+        兄弟姐妹       0.73      0.78      0.75        81
+          合作       0.83      0.77      0.80       110
+          情侣       0.81      0.84      0.83        57
+          祖孙       0.58      0.65      0.61        17
+          好友       0.71      0.74      0.73        27
+          亲戚       0.53      0.62      0.57        13
+          同门       0.57      0.71      0.63        24
+         上下级       0.88      0.74      0.80        19
+
+    accuracy                           0.76      1000
+   macro avg       0.70      0.73      0.71      1000
+weighted avg       0.77      0.76      0.76      1000
+
+2022-03-29 18:14:43 - train.py[line:119] - INFO: Validation/f1:0.7580518659872795---epoch:13
+2022-03-29 18:14:43 - train.py[line:120] - INFO: Validation/precision:0.766046817832043---epoch:13
+2022-03-29 18:14:43 - train.py[line:121] - INFO: Validation/recall:0.755---epoch:13
+2022-03-29 18:14:43 - train.py[line:122] - INFO: Validation/accuracy:0.755---epoch:13
+2022-03-29 18:14:44 - train.py[line:67] - INFO: Epoch: 14
+2022-03-29 18:14:44 - train.py[line:87] - INFO: raining/training loss:0.02812605338403955--17500
+2022-03-29 18:14:46 - train.py[line:87] - INFO: raining/training loss:0.06523516566812759--17520
+2022-03-29 18:14:48 - train.py[line:87] - INFO: raining/training loss:0.014678253269084961--17540
+2022-03-29 18:14:49 - train.py[line:87] - INFO: raining/training loss:0.05148940197614138--17560
+2022-03-29 18:14:51 - train.py[line:87] - INFO: raining/training loss:0.03528159541310742--17580
+2022-03-29 18:14:53 - train.py[line:87] - INFO: raining/training loss:0.10117147115888656--17600
+2022-03-29 18:14:55 - train.py[line:87] - INFO: raining/training loss:0.047961149271577595--17620
+2022-03-29 18:14:56 - train.py[line:87] - INFO: raining/training loss:0.12398739597992972--17640
+2022-03-29 18:14:58 - train.py[line:87] - INFO: raining/training loss:0.0744852375908522--17660
+2022-03-29 18:15:00 - train.py[line:87] - INFO: raining/training loss:0.0653557553596329--17680
+2022-03-29 18:15:01 - train.py[line:87] - INFO: raining/training loss:0.07675419892766513--17700
+2022-03-29 18:15:03 - train.py[line:87] - INFO: raining/training loss:0.04452641947864322--17720
+2022-03-29 18:15:05 - train.py[line:87] - INFO: raining/training loss:0.04857061450893525--17740
+2022-03-29 18:15:06 - train.py[line:87] - INFO: raining/training loss:0.08565468472079374--17760
+2022-03-29 18:15:08 - train.py[line:87] - INFO: raining/training loss:0.06017822801659349--17780
+2022-03-29 18:15:10 - train.py[line:87] - INFO: raining/training loss:0.030618704922380856--17800
+2022-03-29 18:15:12 - train.py[line:87] - INFO: raining/training loss:0.12614989649737254--17820
+2022-03-29 18:15:13 - train.py[line:87] - INFO: raining/training loss:0.030100499861873686--17840
+2022-03-29 18:15:15 - train.py[line:87] - INFO: raining/training loss:0.03244085513870232--17860
+2022-03-29 18:15:17 - train.py[line:87] - INFO: raining/training loss:0.030889707006281242--17880
+2022-03-29 18:15:19 - train.py[line:87] - INFO: raining/training loss:0.05074101916397922--17900
+2022-03-29 18:15:20 - train.py[line:87] - INFO: raining/training loss:0.10739954165765084--17920
+2022-03-29 18:15:22 - train.py[line:87] - INFO: raining/training loss:0.05205141892365646--17940
+2022-03-29 18:15:24 - train.py[line:87] - INFO: raining/training loss:0.056046094832890955--17960
+2022-03-29 18:15:25 - train.py[line:87] - INFO: raining/training loss:0.09040668827365153--17980
+2022-03-29 18:15:27 - train.py[line:87] - INFO: raining/training loss:0.06661826470080996--18000
+2022-03-29 18:15:29 - train.py[line:87] - INFO: raining/training loss:0.02347892820762354--18020
+2022-03-29 18:15:30 - train.py[line:87] - INFO: raining/training loss:0.03002313490578672--18040
+2022-03-29 18:15:32 - train.py[line:87] - INFO: raining/training loss:0.02021729756088462--18060
+2022-03-29 18:15:34 - train.py[line:87] - INFO: raining/training loss:0.04915074569871649--18080
+2022-03-29 18:15:35 - train.py[line:87] - INFO: raining/training loss:0.05830660062492825--18100
+2022-03-29 18:15:37 - train.py[line:87] - INFO: raining/training loss:0.050176275239209644--18120
+2022-03-29 18:15:39 - train.py[line:87] - INFO: raining/training loss:0.017505150206852706--18140
+2022-03-29 18:15:41 - train.py[line:87] - INFO: raining/training loss:0.056352818245068194--18160
+2022-03-29 18:15:42 - train.py[line:87] - INFO: raining/training loss:0.07078656984813278--18180
+2022-03-29 18:15:44 - train.py[line:87] - INFO: raining/training loss:0.06603226932347753--18200
+2022-03-29 18:15:46 - train.py[line:87] - INFO: raining/training loss:0.0507531970331911--18220
+2022-03-29 18:15:47 - train.py[line:87] - INFO: raining/training loss:0.18899335693567992--18240
+2022-03-29 18:15:49 - train.py[line:87] - INFO: raining/training loss:0.07534739133552648--18260
+2022-03-29 18:15:51 - train.py[line:87] - INFO: raining/training loss:0.13286871726741084--18280
+2022-03-29 18:15:52 - train.py[line:87] - INFO: raining/training loss:0.051907451888837386--18300
+2022-03-29 18:15:54 - train.py[line:87] - INFO: raining/training loss:0.06344049523904687--18320
+2022-03-29 18:15:56 - train.py[line:87] - INFO: raining/training loss:0.1142899336409755--18340
+2022-03-29 18:15:57 - train.py[line:87] - INFO: raining/training loss:0.06374950391473248--18360
+2022-03-29 18:15:59 - train.py[line:87] - INFO: raining/training loss:0.035077207982249094--18380
+2022-03-29 18:16:01 - train.py[line:87] - INFO: raining/training loss:0.08701311446493491--18400
+2022-03-29 18:16:02 - train.py[line:87] - INFO: raining/training loss:0.05737186405458487--18420
+2022-03-29 18:16:04 - train.py[line:87] - INFO: raining/training loss:0.0554800467856694--18440
+2022-03-29 18:16:06 - train.py[line:87] - INFO: raining/training loss:0.07861323788383742--18460
+2022-03-29 18:16:08 - train.py[line:87] - INFO: raining/training loss:0.03982456906815059--18480
+2022-03-29 18:16:10 - train.py[line:87] - INFO: raining/training loss:0.06736192124371883--18500
+2022-03-29 18:16:11 - train.py[line:87] - INFO: raining/training loss:0.042418521903891816--18520
+2022-03-29 18:16:13 - train.py[line:87] - INFO: raining/training loss:0.0311012953548925--18540
+2022-03-29 18:16:15 - train.py[line:87] - INFO: raining/training loss:0.05957032696460374--18560
+2022-03-29 18:16:16 - train.py[line:87] - INFO: raining/training loss:0.05193180945789209--18580
+2022-03-29 18:16:18 - train.py[line:87] - INFO: raining/training loss:0.07676629293273436--18600
+2022-03-29 18:16:20 - train.py[line:87] - INFO: raining/training loss:0.06493205573497107--18620
+2022-03-29 18:16:21 - train.py[line:87] - INFO: raining/training loss:0.056845112130395135--18640
+2022-03-29 18:16:23 - train.py[line:87] - INFO: raining/training loss:0.017734342699259286--18660
+2022-03-29 18:16:25 - train.py[line:87] - INFO: raining/training loss:0.06915456857823302--18680
+2022-03-29 18:16:27 - train.py[line:87] - INFO: raining/training loss:0.07780526936112438--18700
+2022-03-29 18:16:28 - train.py[line:87] - INFO: raining/training loss:0.18280394250759854--18720
+2022-03-29 18:16:30 - train.py[line:87] - INFO: raining/training loss:0.10055349709728034--18740
+2022-03-29 18:16:34 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.53      0.57      0.55       100
+          父母       0.77      0.82      0.79       228
+          夫妻       0.83      0.81      0.82       270
+          师生       0.72      0.63      0.67        54
+        兄弟姐妹       0.86      0.54      0.67        81
+          合作       0.78      0.82      0.80       110
+          情侣       0.76      0.88      0.81        57
+          祖孙       0.69      0.65      0.67        17
+          好友       0.75      0.67      0.71        27
+          亲戚       0.73      0.62      0.67        13
+          同门       0.65      0.71      0.68        24
+         上下级       0.56      0.79      0.65        19
+
+    accuracy                           0.75      1000
+   macro avg       0.72      0.71      0.71      1000
+weighted avg       0.76      0.75      0.75      1000
+
+2022-03-29 18:16:34 - train.py[line:119] - INFO: Validation/f1:0.7498682018880866---epoch:14
+2022-03-29 18:16:34 - train.py[line:120] - INFO: Validation/precision:0.7572724135504868---epoch:14
+2022-03-29 18:16:34 - train.py[line:121] - INFO: Validation/recall:0.751---epoch:14
+2022-03-29 18:16:34 - train.py[line:122] - INFO: Validation/accuracy:0.751---epoch:14
+2022-03-29 18:16:34 - train.py[line:67] - INFO: Epoch: 15
+2022-03-29 18:16:34 - train.py[line:87] - INFO: raining/training loss:0.04374316612957045--18750
+2022-03-29 18:16:36 - train.py[line:87] - INFO: raining/training loss:0.054806524713058025--18770
+2022-03-29 18:16:37 - train.py[line:87] - INFO: raining/training loss:0.028978631470818073--18790
+2022-03-29 18:16:39 - train.py[line:87] - INFO: raining/training loss:0.010214515603729523--18810
+2022-03-29 18:16:41 - train.py[line:87] - INFO: raining/training loss:0.015332792201661505--18830
+2022-03-29 18:16:43 - train.py[line:87] - INFO: raining/training loss:0.021682781213894487--18850
+2022-03-29 18:16:44 - train.py[line:87] - INFO: raining/training loss:0.02261076688882895--18870
+2022-03-29 18:16:46 - train.py[line:87] - INFO: raining/training loss:0.01777939717139816--18890
+2022-03-29 18:16:48 - train.py[line:87] - INFO: raining/training loss:0.033551027966314--18910
+2022-03-29 18:16:49 - train.py[line:87] - INFO: raining/training loss:0.0425954011909198--18930
+2022-03-29 18:16:51 - train.py[line:87] - INFO: raining/training loss:0.0202831158938352--18950
+2022-03-29 18:16:53 - train.py[line:87] - INFO: raining/training loss:0.011562423655414022--18970
+2022-03-29 18:16:55 - train.py[line:87] - INFO: raining/training loss:0.024304150293028216--18990
+2022-03-29 18:16:56 - train.py[line:87] - INFO: raining/training loss:0.01195527397285332--19010
+2022-03-29 18:16:58 - train.py[line:87] - INFO: raining/training loss:0.014402918118867092--19030
+2022-03-29 18:17:00 - train.py[line:87] - INFO: raining/training loss:0.023246115272922908--19050
+2022-03-29 18:17:01 - train.py[line:87] - INFO: raining/training loss:0.02144594135461375--19070
+2022-03-29 18:17:03 - train.py[line:87] - INFO: raining/training loss:0.007814594228693749--19090
+2022-03-29 18:17:05 - train.py[line:87] - INFO: raining/training loss:0.0025791134117753244--19110
+2022-03-29 18:17:07 - train.py[line:87] - INFO: raining/training loss:0.041686435653537045--19130
+2022-03-29 18:17:08 - train.py[line:87] - INFO: raining/training loss:0.02349307556869462--19150
+2022-03-29 18:17:10 - train.py[line:87] - INFO: raining/training loss:0.03838626299257157--19170
+2022-03-29 18:17:12 - train.py[line:87] - INFO: raining/training loss:0.02451580879424--19190
+2022-03-29 18:17:13 - train.py[line:87] - INFO: raining/training loss:0.02544518521099235--19210
+2022-03-29 18:17:15 - train.py[line:87] - INFO: raining/training loss:0.0458138024827349--19230
+2022-03-29 18:17:17 - train.py[line:87] - INFO: raining/training loss:0.015349283104296774--19250
+2022-03-29 18:17:18 - train.py[line:87] - INFO: raining/training loss:0.009897258352430072--19270
+2022-03-29 18:17:20 - train.py[line:87] - INFO: raining/training loss:0.04040171757915232--19290
+2022-03-29 18:17:22 - train.py[line:87] - INFO: raining/training loss:0.03970421802951023--19310
+2022-03-29 18:17:23 - train.py[line:87] - INFO: raining/training loss:0.04967004532372812--19330
+2022-03-29 18:17:25 - train.py[line:87] - INFO: raining/training loss:0.03897488664224511--19350
+2022-03-29 18:17:27 - train.py[line:87] - INFO: raining/training loss:0.039760522468714046--19370
+2022-03-29 18:17:28 - train.py[line:87] - INFO: raining/training loss:0.1075055449429783--19390
+2022-03-29 18:17:30 - train.py[line:87] - INFO: raining/training loss:0.017458007186360192--19410
+2022-03-29 18:17:32 - train.py[line:87] - INFO: raining/training loss:0.019392763773794286--19430
+2022-03-29 18:17:34 - train.py[line:87] - INFO: raining/training loss:0.05450575323011435--19450
+2022-03-29 18:17:35 - train.py[line:87] - INFO: raining/training loss:0.02141844040597789--19470
+2022-03-29 18:17:37 - train.py[line:87] - INFO: raining/training loss:0.030974987447552848--19490
+2022-03-29 18:17:39 - train.py[line:87] - INFO: raining/training loss:0.04643554253852926--19510
+2022-03-29 18:17:40 - train.py[line:87] - INFO: raining/training loss:0.041637185798026624--19530
+2022-03-29 18:17:42 - train.py[line:87] - INFO: raining/training loss:0.1255517984725884--19550
+2022-03-29 18:17:44 - train.py[line:87] - INFO: raining/training loss:0.024116506196878617--19570
+2022-03-29 18:17:45 - train.py[line:87] - INFO: raining/training loss:0.03168861856829608--19590
+2022-03-29 18:17:47 - train.py[line:87] - INFO: raining/training loss:0.04280424886674154--19610
+2022-03-29 18:17:49 - train.py[line:87] - INFO: raining/training loss:0.03868797218019608--19630
+2022-03-29 18:17:51 - train.py[line:87] - INFO: raining/training loss:0.09326240957379923--19650
+2022-03-29 18:17:52 - train.py[line:87] - INFO: raining/training loss:0.045917713457674834--19670
+2022-03-29 18:17:54 - train.py[line:87] - INFO: raining/training loss:0.03868550960542052--19690
+2022-03-29 18:17:56 - train.py[line:87] - INFO: raining/training loss:0.08384756171144545--19710
+2022-03-29 18:17:57 - train.py[line:87] - INFO: raining/training loss:0.043982897917885566--19730
+2022-03-29 18:17:59 - train.py[line:87] - INFO: raining/training loss:0.08812143820687197--19750
+2022-03-29 18:18:01 - train.py[line:87] - INFO: raining/training loss:0.02746566154237371--19770
+2022-03-29 18:18:03 - train.py[line:87] - INFO: raining/training loss:0.046628678299020974--19790
+2022-03-29 18:18:04 - train.py[line:87] - INFO: raining/training loss:0.03006401717866538--19810
+2022-03-29 18:18:06 - train.py[line:87] - INFO: raining/training loss:0.027491541813651564--19830
+2022-03-29 18:18:08 - train.py[line:87] - INFO: raining/training loss:0.031533660416607746--19850
+2022-03-29 18:18:09 - train.py[line:87] - INFO: raining/training loss:0.029755539016332478--19870
+2022-03-29 18:18:11 - train.py[line:87] - INFO: raining/training loss:0.06324789425707422--19890
+2022-03-29 18:18:13 - train.py[line:87] - INFO: raining/training loss:0.05617674262903165--19910
+2022-03-29 18:18:14 - train.py[line:87] - INFO: raining/training loss:0.11361382613540627--19930
+2022-03-29 18:18:16 - train.py[line:87] - INFO: raining/training loss:0.05537478737824131--19950
+2022-03-29 18:18:18 - train.py[line:87] - INFO: raining/training loss:0.05842189068353036--19970
+2022-03-29 18:18:20 - train.py[line:87] - INFO: raining/training loss:0.08885142760700546--19990
+2022-03-29 18:18:23 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.51      0.61      0.55       100
+          父母       0.84      0.68      0.75       228
+          夫妻       0.69      0.89      0.77       270
+          师生       0.83      0.63      0.72        54
+        兄弟姐妹       0.69      0.62      0.65        81
+          合作       0.89      0.69      0.78       110
+          情侣       0.77      0.84      0.81        57
+          祖孙       0.64      0.41      0.50        17
+          好友       0.86      0.67      0.75        27
+          亲戚       0.44      0.62      0.52        13
+          同门       0.80      0.67      0.73        24
+         上下级       0.63      0.63      0.63        19
+
+    accuracy                           0.72      1000
+   macro avg       0.72      0.66      0.68      1000
+weighted avg       0.74      0.72      0.72      1000
+
+2022-03-29 18:18:24 - train.py[line:119] - INFO: Validation/f1:0.7244161772302301---epoch:15
+2022-03-29 18:18:24 - train.py[line:120] - INFO: Validation/precision:0.7433152465703029---epoch:15
+2022-03-29 18:18:24 - train.py[line:121] - INFO: Validation/recall:0.724---epoch:15
+2022-03-29 18:18:24 - train.py[line:122] - INFO: Validation/accuracy:0.724---epoch:15
+2022-03-29 18:18:24 - train.py[line:67] - INFO: Epoch: 16
+2022-03-29 18:18:24 - train.py[line:87] - INFO: raining/training loss:0.012047550818533637--20000
+2022-03-29 18:18:25 - train.py[line:87] - INFO: raining/training loss:0.061551795073319225--20020
+2022-03-29 18:18:27 - train.py[line:87] - INFO: raining/training loss:0.05641724535962567--20040
+2022-03-29 18:18:29 - train.py[line:87] - INFO: raining/training loss:0.07554204471161938--20060
+2022-03-29 18:18:30 - train.py[line:87] - INFO: raining/training loss:0.024063141592341707--20080
+2022-03-29 18:18:32 - train.py[line:87] - INFO: raining/training loss:0.025884525518631563--20100
+2022-03-29 18:18:34 - train.py[line:87] - INFO: raining/training loss:0.08736758057493717--20120
+2022-03-29 18:18:35 - train.py[line:87] - INFO: raining/training loss:0.06967343222204363--20140
+2022-03-29 18:18:37 - train.py[line:87] - INFO: raining/training loss:0.10657040607766248--20160
+2022-03-29 18:18:39 - train.py[line:87] - INFO: raining/training loss:0.044123320979997514--20180
+2022-03-29 18:18:40 - train.py[line:87] - INFO: raining/training loss:0.10958937641553348--20200
+2022-03-29 18:18:42 - train.py[line:87] - INFO: raining/training loss:0.05256896173232235--20220
+2022-03-29 18:18:44 - train.py[line:87] - INFO: raining/training loss:0.11847499567084015--20240
+2022-03-29 18:18:45 - train.py[line:87] - INFO: raining/training loss:0.1539494565775385--20260
+2022-03-29 18:18:47 - train.py[line:87] - INFO: raining/training loss:0.06078367429145146--20280
+2022-03-29 18:18:49 - train.py[line:87] - INFO: raining/training loss:0.06845133573806379--20300
+2022-03-29 18:18:51 - train.py[line:87] - INFO: raining/training loss:0.09716856425220613--20320
+2022-03-29 18:18:52 - train.py[line:87] - INFO: raining/training loss:0.13027741113328375--20340
+2022-03-29 18:18:54 - train.py[line:87] - INFO: raining/training loss:0.024301334686606425--20360
+2022-03-29 18:18:56 - train.py[line:87] - INFO: raining/training loss:0.05007390433747787--20380
+2022-03-29 18:18:58 - train.py[line:87] - INFO: raining/training loss:0.07440645961032714--20400
+2022-03-29 18:18:59 - train.py[line:87] - INFO: raining/training loss:0.093097713978932--20420
+2022-03-29 18:19:01 - train.py[line:87] - INFO: raining/training loss:0.03821181895473273--20440
+2022-03-29 18:19:02 - train.py[line:87] - INFO: raining/training loss:0.1127900377716287--20460
+2022-03-29 18:19:04 - train.py[line:87] - INFO: raining/training loss:0.0509286144428188--20480
+2022-03-29 18:19:06 - train.py[line:87] - INFO: raining/training loss:0.056005260438541885--20500
+2022-03-29 18:19:08 - train.py[line:87] - INFO: raining/training loss:0.03064701886032708--20520
+2022-03-29 18:19:09 - train.py[line:87] - INFO: raining/training loss:0.01657752281971625--20540
+2022-03-29 18:19:11 - train.py[line:87] - INFO: raining/training loss:0.0698477539292071--20560
+2022-03-29 18:19:13 - train.py[line:87] - INFO: raining/training loss:0.12911126233520917--20580
+2022-03-29 18:19:14 - train.py[line:87] - INFO: raining/training loss:0.042694333315012045--20600
+2022-03-29 18:19:16 - train.py[line:87] - INFO: raining/training loss:0.06464660427591298--20620
+2022-03-29 18:19:18 - train.py[line:87] - INFO: raining/training loss:0.08269413195375819--20640
+2022-03-29 18:19:19 - train.py[line:87] - INFO: raining/training loss:0.15303298467042623--20660
+2022-03-29 18:19:21 - train.py[line:87] - INFO: raining/training loss:0.060311278226436116--20680
+2022-03-29 18:19:23 - train.py[line:87] - INFO: raining/training loss:0.08336615377629641--20700
+2022-03-29 18:19:24 - train.py[line:87] - INFO: raining/training loss:0.04850833134114509--20720
+2022-03-29 18:19:26 - train.py[line:87] - INFO: raining/training loss:0.08082867688572151--20740
+2022-03-29 18:19:28 - train.py[line:87] - INFO: raining/training loss:0.0750488505436806--20760
+2022-03-29 18:19:30 - train.py[line:87] - INFO: raining/training loss:0.11961281936964951--20780
+2022-03-29 18:19:31 - train.py[line:87] - INFO: raining/training loss:0.055039058465627025--20800
+2022-03-29 18:19:33 - train.py[line:87] - INFO: raining/training loss:0.015546055085724219--20820
+2022-03-29 18:19:35 - train.py[line:87] - INFO: raining/training loss:0.08507744467933662--20840
+2022-03-29 18:19:36 - train.py[line:87] - INFO: raining/training loss:0.025283089125878178--20860
+2022-03-29 18:19:38 - train.py[line:87] - INFO: raining/training loss:0.029375420839642175--20880
+2022-03-29 18:19:40 - train.py[line:87] - INFO: raining/training loss:0.06616154944422306--20900
+2022-03-29 18:19:41 - train.py[line:87] - INFO: raining/training loss:0.11734596071983106--20920
+2022-03-29 18:19:43 - train.py[line:87] - INFO: raining/training loss:0.16487688417037133--20940
+2022-03-29 18:19:45 - train.py[line:87] - INFO: raining/training loss:0.07474741770711262--20960
+2022-03-29 18:19:47 - train.py[line:87] - INFO: raining/training loss:0.036530001621576956--20980
+2022-03-29 18:19:48 - train.py[line:87] - INFO: raining/training loss:0.07149105504140607--21000
+2022-03-29 18:19:50 - train.py[line:87] - INFO: raining/training loss:0.11424046769825509--21020
+2022-03-29 18:19:52 - train.py[line:87] - INFO: raining/training loss:0.05132780601852573--21040
+2022-03-29 18:19:53 - train.py[line:87] - INFO: raining/training loss:0.03469558838987723--21060
+2022-03-29 18:19:55 - train.py[line:87] - INFO: raining/training loss:0.09114306598203256--21080
+2022-03-29 18:19:57 - train.py[line:87] - INFO: raining/training loss:0.027670714796113317--21100
+2022-03-29 18:19:58 - train.py[line:87] - INFO: raining/training loss:0.05243938526546117--21120
+2022-03-29 18:20:00 - train.py[line:87] - INFO: raining/training loss:0.02598809229384642--21140
+2022-03-29 18:20:02 - train.py[line:87] - INFO: raining/training loss:0.05704892873181962--21160
+2022-03-29 18:20:03 - train.py[line:87] - INFO: raining/training loss:0.07176350997324335--21180
+2022-03-29 18:20:05 - train.py[line:87] - INFO: raining/training loss:0.04333659654512303--21200
+2022-03-29 18:20:07 - train.py[line:87] - INFO: raining/training loss:0.055814972845837474--21220
+2022-03-29 18:20:08 - train.py[line:87] - INFO: raining/training loss:0.0424069258820964--21240
+2022-03-29 18:20:12 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.65      0.34      0.45       100
+          父母       0.81      0.81      0.81       228
+          夫妻       0.79      0.87      0.83       270
+          师生       0.65      0.76      0.70        54
+        兄弟姐妹       0.72      0.67      0.69        81
+          合作       0.81      0.72      0.76       110
+          情侣       0.74      0.84      0.79        57
+          祖孙       0.62      0.59      0.61        17
+          好友       0.44      0.78      0.56        27
+          亲戚       0.50      0.85      0.63        13
+          同门       0.82      0.58      0.68        24
+         上下级       0.70      0.74      0.72        19
+
+    accuracy                           0.74      1000
+   macro avg       0.69      0.71      0.69      1000
+weighted avg       0.75      0.74      0.74      1000
+
+2022-03-29 18:20:12 - train.py[line:119] - INFO: Validation/f1:0.738919347681804---epoch:16
+2022-03-29 18:20:12 - train.py[line:120] - INFO: Validation/precision:0.7502596507425855---epoch:16
+2022-03-29 18:20:12 - train.py[line:121] - INFO: Validation/recall:0.745---epoch:16
+2022-03-29 18:20:12 - train.py[line:122] - INFO: Validation/accuracy:0.745---epoch:16
+2022-03-29 18:20:12 - train.py[line:67] - INFO: Epoch: 17
+2022-03-29 18:20:12 - train.py[line:87] - INFO: raining/training loss:0.01650227627978893--21250
+2022-03-29 18:20:14 - train.py[line:87] - INFO: raining/training loss:0.02173090865544509--21270
+2022-03-29 18:20:16 - train.py[line:87] - INFO: raining/training loss:0.04877522285460145--21290
+2022-03-29 18:20:17 - train.py[line:87] - INFO: raining/training loss:0.014866640188847669--21310
+2022-03-29 18:20:19 - train.py[line:87] - INFO: raining/training loss:0.02931590002554003--21330
+2022-03-29 18:20:21 - train.py[line:87] - INFO: raining/training loss:0.022268325071490836--21350
+2022-03-29 18:20:23 - train.py[line:87] - INFO: raining/training loss:0.030443305783046527--21370
+2022-03-29 18:20:24 - train.py[line:87] - INFO: raining/training loss:0.048595419137564023--21390
+2022-03-29 18:20:26 - train.py[line:87] - INFO: raining/training loss:0.057215413128142247--21410
+2022-03-29 18:20:28 - train.py[line:87] - INFO: raining/training loss:0.04826292648504023--21430
+2022-03-29 18:20:29 - train.py[line:87] - INFO: raining/training loss:0.06245785585633712--21450
+2022-03-29 18:20:31 - train.py[line:87] - INFO: raining/training loss:0.020933247566426873--21470
+2022-03-29 18:20:33 - train.py[line:87] - INFO: raining/training loss:0.027418144628973094--21490
+2022-03-29 18:20:34 - train.py[line:87] - INFO: raining/training loss:0.04248198169007082--21510
+2022-03-29 18:20:36 - train.py[line:87] - INFO: raining/training loss:0.016915598109699205--21530
+2022-03-29 18:20:38 - train.py[line:87] - INFO: raining/training loss:0.03917704048217274--21550
+2022-03-29 18:20:40 - train.py[line:87] - INFO: raining/training loss:0.04116954544442706--21570
+2022-03-29 18:20:41 - train.py[line:87] - INFO: raining/training loss:0.03083524731155194--21590
+2022-03-29 18:20:43 - train.py[line:87] - INFO: raining/training loss:0.032932197871559765--21610
+2022-03-29 18:20:45 - train.py[line:87] - INFO: raining/training loss:0.015883465641672957--21630
+2022-03-29 18:20:46 - train.py[line:87] - INFO: raining/training loss:0.04365172447905934--21650
+2022-03-29 18:20:48 - train.py[line:87] - INFO: raining/training loss:0.040139765181811525--21670
+2022-03-29 18:20:50 - train.py[line:87] - INFO: raining/training loss:0.08866049419666525--21690
+2022-03-29 18:20:52 - train.py[line:87] - INFO: raining/training loss:0.0457428925052227--21710
+2022-03-29 18:20:53 - train.py[line:87] - INFO: raining/training loss:0.0745492689908133--21730
+2022-03-29 18:20:55 - train.py[line:87] - INFO: raining/training loss:0.13411458577029406--21750
+2022-03-29 18:20:57 - train.py[line:87] - INFO: raining/training loss:0.07971677905588877--21770
+2022-03-29 18:20:58 - train.py[line:87] - INFO: raining/training loss:0.06799302515028102--21790
+2022-03-29 18:21:00 - train.py[line:87] - INFO: raining/training loss:0.04174020328791812--21810
+2022-03-29 18:21:02 - train.py[line:87] - INFO: raining/training loss:0.035173860071517994--21830
+2022-03-29 18:21:03 - train.py[line:87] - INFO: raining/training loss:0.03754443611396709--21850
+2022-03-29 18:21:05 - train.py[line:87] - INFO: raining/training loss:0.15215420031163376--21870
+2022-03-29 18:21:07 - train.py[line:87] - INFO: raining/training loss:0.08281228459381965--21890
+2022-03-29 18:21:09 - train.py[line:87] - INFO: raining/training loss:0.05376563299942063--21910
+2022-03-29 18:21:10 - train.py[line:87] - INFO: raining/training loss:0.050570479355883435--21930
+2022-03-29 18:21:12 - train.py[line:87] - INFO: raining/training loss:0.022916263740626164--21950
+2022-03-29 18:21:14 - train.py[line:87] - INFO: raining/training loss:0.11884448889177293--21970
+2022-03-29 18:21:16 - train.py[line:87] - INFO: raining/training loss:0.09973160865483806--21990
+2022-03-29 18:21:17 - train.py[line:87] - INFO: raining/training loss:0.09673389798845164--22010
+2022-03-29 18:21:19 - train.py[line:87] - INFO: raining/training loss:0.0802359518398589--22030
+2022-03-29 18:21:21 - train.py[line:87] - INFO: raining/training loss:0.12585286822140915--22050
+2022-03-29 18:21:22 - train.py[line:87] - INFO: raining/training loss:0.11150104267289862--22070
+2022-03-29 18:21:24 - train.py[line:87] - INFO: raining/training loss:0.02577751338831149--22090
+2022-03-29 18:21:26 - train.py[line:87] - INFO: raining/training loss:0.21220320198626724--22110
+2022-03-29 18:21:27 - train.py[line:87] - INFO: raining/training loss:0.1424451722705271--22130
+2022-03-29 18:21:29 - train.py[line:87] - INFO: raining/training loss:0.029516292865446304--22150
+2022-03-29 18:21:31 - train.py[line:87] - INFO: raining/training loss:0.10750652105780319--22170
+2022-03-29 18:21:32 - train.py[line:87] - INFO: raining/training loss:0.06806556179653853--22190
+2022-03-29 18:21:34 - train.py[line:87] - INFO: raining/training loss:0.10677357532113092--22210
+2022-03-29 18:21:36 - train.py[line:87] - INFO: raining/training loss:0.04979997983609792--22230
+2022-03-29 18:21:38 - train.py[line:87] - INFO: raining/training loss:0.12172192933649058--22250
+2022-03-29 18:21:39 - train.py[line:87] - INFO: raining/training loss:0.13551872460229789--22270
+2022-03-29 18:21:41 - train.py[line:87] - INFO: raining/training loss:0.10849230456915393--22290
+2022-03-29 18:21:43 - train.py[line:87] - INFO: raining/training loss:0.05797889330933685--22310
+2022-03-29 18:21:44 - train.py[line:87] - INFO: raining/training loss:0.08529033289232757--22330
+2022-03-29 18:21:46 - train.py[line:87] - INFO: raining/training loss:0.072964253333339--22350
+2022-03-29 18:21:48 - train.py[line:87] - INFO: raining/training loss:0.05200170821044594--22370
+2022-03-29 18:21:49 - train.py[line:87] - INFO: raining/training loss:0.03888986244419357--22390
+2022-03-29 18:21:51 - train.py[line:87] - INFO: raining/training loss:0.0704004776198417--22410
+2022-03-29 18:21:53 - train.py[line:87] - INFO: raining/training loss:0.11492635506147053--22430
+2022-03-29 18:21:54 - train.py[line:87] - INFO: raining/training loss:0.0757513330783695--22450
+2022-03-29 18:21:56 - train.py[line:87] - INFO: raining/training loss:0.04483372140384745--22470
+2022-03-29 18:21:58 - train.py[line:87] - INFO: raining/training loss:0.10567755058582406--22490
+2022-03-29 18:22:02 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.50      0.47      0.48       100
+          父母       0.85      0.81      0.83       228
+          夫妻       0.78      0.88      0.83       270
+          师生       0.76      0.63      0.69        54
+        兄弟姐妹       0.78      0.73      0.75        81
+          合作       0.87      0.75      0.81       110
+          情侣       0.76      0.84      0.80        57
+          祖孙       0.60      0.71      0.65        17
+          好友       0.75      0.67      0.71        27
+          亲戚       0.77      0.77      0.77        13
+          同门       0.63      0.71      0.67        24
+         上下级       0.60      0.63      0.62        19
+
+    accuracy                           0.76      1000
+   macro avg       0.72      0.72      0.72      1000
+weighted avg       0.76      0.76      0.76      1000
+
+2022-03-29 18:22:02 - train.py[line:119] - INFO: Validation/f1:0.7615358527515464---epoch:17
+2022-03-29 18:22:02 - train.py[line:120] - INFO: Validation/precision:0.7643512877672196---epoch:17
+2022-03-29 18:22:02 - train.py[line:121] - INFO: Validation/recall:0.763---epoch:17
+2022-03-29 18:22:02 - train.py[line:122] - INFO: Validation/accuracy:0.763---epoch:17
+2022-03-29 18:22:03 - train.py[line:67] - INFO: Epoch: 18
+2022-03-29 18:22:03 - train.py[line:87] - INFO: raining/training loss:0.010654844414239051--22500
+2022-03-29 18:22:04 - train.py[line:87] - INFO: raining/training loss:0.017303541523506282--22520
+2022-03-29 18:22:06 - train.py[line:87] - INFO: raining/training loss:0.030309574864804744--22540
+2022-03-29 18:22:08 - train.py[line:87] - INFO: raining/training loss:0.022857582294091117--22560
+2022-03-29 18:22:09 - train.py[line:87] - INFO: raining/training loss:0.011954909624182618--22580
+2022-03-29 18:22:11 - train.py[line:87] - INFO: raining/training loss:0.009217587006423856--22600
+2022-03-29 18:22:13 - train.py[line:87] - INFO: raining/training loss:0.018406546127516778--22620
+2022-03-29 18:22:15 - train.py[line:87] - INFO: raining/training loss:0.03240374950837577--22640
+2022-03-29 18:22:16 - train.py[line:87] - INFO: raining/training loss:0.06420273875410203--22660
+2022-03-29 18:22:18 - train.py[line:87] - INFO: raining/training loss:0.04461425625049742--22680
+2022-03-29 18:22:20 - train.py[line:87] - INFO: raining/training loss:0.012070484989089891--22700
+2022-03-29 18:22:21 - train.py[line:87] - INFO: raining/training loss:0.027998001114974615--22720
+2022-03-29 18:22:23 - train.py[line:87] - INFO: raining/training loss:0.032409251424542165--22740
+2022-03-29 18:22:25 - train.py[line:87] - INFO: raining/training loss:0.00805709694250254--22760
+2022-03-29 18:22:26 - train.py[line:87] - INFO: raining/training loss:0.0832671211752313--22780
+2022-03-29 18:22:28 - train.py[line:87] - INFO: raining/training loss:0.05635392837648397--22800
+2022-03-29 18:22:30 - train.py[line:87] - INFO: raining/training loss:0.016933228966081515--22820
+2022-03-29 18:22:32 - train.py[line:87] - INFO: raining/training loss:0.023549427000398283--22840
+2022-03-29 18:22:33 - train.py[line:87] - INFO: raining/training loss:0.022541540181555318--22860
+2022-03-29 18:22:35 - train.py[line:87] - INFO: raining/training loss:0.016818758456793148--22880
+2022-03-29 18:22:37 - train.py[line:87] - INFO: raining/training loss:0.07627981689802255--22900
+2022-03-29 18:22:39 - train.py[line:87] - INFO: raining/training loss:0.008653889389097457--22920
+2022-03-29 18:22:40 - train.py[line:87] - INFO: raining/training loss:0.017850510771677364--22940
+2022-03-29 18:22:42 - train.py[line:87] - INFO: raining/training loss:0.0041182090128131675--22960
+2022-03-29 18:22:44 - train.py[line:87] - INFO: raining/training loss:0.0036601625637558755--22980
+2022-03-29 18:22:45 - train.py[line:87] - INFO: raining/training loss:0.03863635172601789--23000
+2022-03-29 18:22:47 - train.py[line:87] - INFO: raining/training loss:0.06782100716009154--23020
+2022-03-29 18:22:49 - train.py[line:87] - INFO: raining/training loss:0.01028887065294839--23040
+2022-03-29 18:22:51 - train.py[line:87] - INFO: raining/training loss:0.04775672476098407--23060
+2022-03-29 18:22:52 - train.py[line:87] - INFO: raining/training loss:0.021283491856593173--23080
+2022-03-29 18:22:54 - train.py[line:87] - INFO: raining/training loss:0.016771374058225774--23100
+2022-03-29 18:22:56 - train.py[line:87] - INFO: raining/training loss:0.07432040005114686--23120
+2022-03-29 18:22:57 - train.py[line:87] - INFO: raining/training loss:0.05664602359174751--23140
+2022-03-29 18:22:59 - train.py[line:87] - INFO: raining/training loss:0.02554352884981199--23160
+2022-03-29 18:23:01 - train.py[line:87] - INFO: raining/training loss:0.0189607912543579--23180
+2022-03-29 18:23:02 - train.py[line:87] - INFO: raining/training loss:0.026695073519294964--23200
+2022-03-29 18:23:04 - train.py[line:87] - INFO: raining/training loss:0.04896656490382156--23220
+2022-03-29 18:23:06 - train.py[line:87] - INFO: raining/training loss:0.0864931830430578--23240
+2022-03-29 18:23:07 - train.py[line:87] - INFO: raining/training loss:0.06985569140233565--23260
+2022-03-29 18:23:09 - train.py[line:87] - INFO: raining/training loss:0.0375336861165124--23280
+2022-03-29 18:23:11 - train.py[line:87] - INFO: raining/training loss:0.092363960640796--23300
+2022-03-29 18:23:13 - train.py[line:87] - INFO: raining/training loss:0.04195477170724189--23320
+2022-03-29 18:23:14 - train.py[line:87] - INFO: raining/training loss:0.02248109782813117--23340
+2022-03-29 18:23:16 - train.py[line:87] - INFO: raining/training loss:0.07616851123093511--23360
+2022-03-29 18:23:18 - train.py[line:87] - INFO: raining/training loss:0.06101629838303779--23380
+2022-03-29 18:23:19 - train.py[line:87] - INFO: raining/training loss:0.13204262997605837--23400
+2022-03-29 18:23:21 - train.py[line:87] - INFO: raining/training loss:0.10407550875097513--23420
+2022-03-29 18:23:23 - train.py[line:87] - INFO: raining/training loss:0.05587866931018652--23440
+2022-03-29 18:23:24 - train.py[line:87] - INFO: raining/training loss:0.03454075794725213--23460
+2022-03-29 18:23:26 - train.py[line:87] - INFO: raining/training loss:0.04683635912660975--23480
+2022-03-29 18:23:28 - train.py[line:87] - INFO: raining/training loss:0.05187802752479911--23500
+2022-03-29 18:23:30 - train.py[line:87] - INFO: raining/training loss:0.03742959614610299--23520
+2022-03-29 18:23:31 - train.py[line:87] - INFO: raining/training loss:0.09007905699872935--23540
+2022-03-29 18:23:33 - train.py[line:87] - INFO: raining/training loss:0.04446269793552347--23560
+2022-03-29 18:23:35 - train.py[line:87] - INFO: raining/training loss:0.04346924765923177--23580
+2022-03-29 18:23:36 - train.py[line:87] - INFO: raining/training loss:0.04978539605945116--23600
+2022-03-29 18:23:38 - train.py[line:87] - INFO: raining/training loss:0.04543923367891693--23620
+2022-03-29 18:23:40 - train.py[line:87] - INFO: raining/training loss:0.02248351510061184--23640
+2022-03-29 18:23:41 - train.py[line:87] - INFO: raining/training loss:0.0448154266407073--23660
+2022-03-29 18:23:43 - train.py[line:87] - INFO: raining/training loss:0.021359660209418506--23680
+2022-03-29 18:23:45 - train.py[line:87] - INFO: raining/training loss:0.09181249927496538--23700
+2022-03-29 18:23:46 - train.py[line:87] - INFO: raining/training loss:0.10262141252460424--23720
+2022-03-29 18:23:48 - train.py[line:87] - INFO: raining/training loss:0.03911811531870626--23740
+2022-03-29 18:23:52 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.58      0.47      0.52       100
+          父母       0.80      0.84      0.82       228
+          夫妻       0.85      0.81      0.83       270
+          师生       0.88      0.54      0.67        54
+        兄弟姐妹       0.66      0.75      0.71        81
+          合作       0.69      0.83      0.75       110
+          情侣       0.78      0.82      0.80        57
+          祖孙       0.57      0.71      0.63        17
+          好友       0.62      0.85      0.72        27
+          亲戚       0.67      0.46      0.55        13
+          同门       0.80      0.67      0.73        24
+         上下级       0.60      0.63      0.62        19
+
+    accuracy                           0.75      1000
+   macro avg       0.71      0.70      0.69      1000
+weighted avg       0.76      0.75      0.75      1000
+
+2022-03-29 18:23:52 - train.py[line:119] - INFO: Validation/f1:0.7502614398384985---epoch:18
+2022-03-29 18:23:52 - train.py[line:120] - INFO: Validation/precision:0.7575649080706905---epoch:18
+2022-03-29 18:23:52 - train.py[line:121] - INFO: Validation/recall:0.753---epoch:18
+2022-03-29 18:23:52 - train.py[line:122] - INFO: Validation/accuracy:0.753---epoch:18
+2022-03-29 18:23:52 - train.py[line:67] - INFO: Epoch: 19
+2022-03-29 18:23:52 - train.py[line:87] - INFO: raining/training loss:0.02214808969438309--23750
+2022-03-29 18:23:54 - train.py[line:87] - INFO: raining/training loss:0.021934309730204403--23770
+2022-03-29 18:23:55 - train.py[line:87] - INFO: raining/training loss:0.03776098203888978--23790
+2022-03-29 18:23:57 - train.py[line:87] - INFO: raining/training loss:0.024729929385648573--23810
+2022-03-29 18:23:59 - train.py[line:87] - INFO: raining/training loss:0.009084515377617208--23830
+2022-03-29 18:24:01 - train.py[line:87] - INFO: raining/training loss:0.020740725781070068--23850
+2022-03-29 18:24:02 - train.py[line:87] - INFO: raining/training loss:0.10483963899314404--23870
+2022-03-29 18:24:04 - train.py[line:87] - INFO: raining/training loss:0.013757206394802778--23890
+2022-03-29 18:24:06 - train.py[line:87] - INFO: raining/training loss:0.005214705857724766--23910
+2022-03-29 18:24:07 - train.py[line:87] - INFO: raining/training loss:0.02756749051332008--23930
+2022-03-29 18:24:09 - train.py[line:87] - INFO: raining/training loss:0.029598865158914123--23950
+2022-03-29 18:24:11 - train.py[line:87] - INFO: raining/training loss:0.05543625904538203--23970
+2022-03-29 18:24:12 - train.py[line:87] - INFO: raining/training loss:0.06986523847372154--23990
+2022-03-29 18:24:14 - train.py[line:87] - INFO: raining/training loss:0.07874824848622666--24010
+2022-03-29 18:24:16 - train.py[line:87] - INFO: raining/training loss:0.03811252302257344--24030
+2022-03-29 18:24:17 - train.py[line:87] - INFO: raining/training loss:0.05571842377830762--24050
+2022-03-29 18:24:19 - train.py[line:87] - INFO: raining/training loss:0.07097153525573958--24070
+2022-03-29 18:24:21 - train.py[line:87] - INFO: raining/training loss:0.03063008587487275--24090
+2022-03-29 18:24:22 - train.py[line:87] - INFO: raining/training loss:0.02661498461893643--24110
+2022-03-29 18:24:24 - train.py[line:87] - INFO: raining/training loss:0.04961504945385968--24130
+2022-03-29 18:24:26 - train.py[line:87] - INFO: raining/training loss:0.0776732641228591--24150
+2022-03-29 18:24:27 - train.py[line:87] - INFO: raining/training loss:0.09919857050117571--24170
+2022-03-29 18:24:29 - train.py[line:87] - INFO: raining/training loss:0.014177813038986641--24190
+2022-03-29 18:24:30 - train.py[line:87] - INFO: raining/training loss:0.03943621644430095--24210
+2022-03-29 18:24:32 - train.py[line:87] - INFO: raining/training loss:0.042996600346668856--24230
+2022-03-29 18:24:34 - train.py[line:87] - INFO: raining/training loss:0.055835741197734025--24250
+2022-03-29 18:24:35 - train.py[line:87] - INFO: raining/training loss:0.09266167928726646--24270
+2022-03-29 18:24:37 - train.py[line:87] - INFO: raining/training loss:0.07597145155086764--24290
+2022-03-29 18:24:39 - train.py[line:87] - INFO: raining/training loss:0.017601424784152185--24310
+2022-03-29 18:24:40 - train.py[line:87] - INFO: raining/training loss:0.004831583541090367--24330
+2022-03-29 18:24:42 - train.py[line:87] - INFO: raining/training loss:0.020476753533876034--24350
+2022-03-29 18:24:44 - train.py[line:87] - INFO: raining/training loss:0.036856211298436393--24370
+2022-03-29 18:24:45 - train.py[line:87] - INFO: raining/training loss:0.14940378049795983--24390
+2022-03-29 18:24:47 - train.py[line:87] - INFO: raining/training loss:0.10080541228089715--24410
+2022-03-29 18:24:49 - train.py[line:87] - INFO: raining/training loss:0.05654903878603364--24430
+2022-03-29 18:24:50 - train.py[line:87] - INFO: raining/training loss:0.07820868974813493--24450
+2022-03-29 18:24:52 - train.py[line:87] - INFO: raining/training loss:0.08345638356113341--24470
+2022-03-29 18:24:54 - train.py[line:87] - INFO: raining/training loss:0.024089007735892665--24490
+2022-03-29 18:24:55 - train.py[line:87] - INFO: raining/training loss:0.025757114779844416--24510
+2022-03-29 18:24:57 - train.py[line:87] - INFO: raining/training loss:0.019786404970363946--24530
+2022-03-29 18:24:59 - train.py[line:87] - INFO: raining/training loss:0.0953777092785458--24550
+2022-03-29 18:25:00 - train.py[line:87] - INFO: raining/training loss:0.0059117421158589424--24570
+2022-03-29 18:25:02 - train.py[line:87] - INFO: raining/training loss:0.040162730520387414--24590
+2022-03-29 18:25:04 - train.py[line:87] - INFO: raining/training loss:0.04274804727319861--24610
+2022-03-29 18:25:05 - train.py[line:87] - INFO: raining/training loss:0.04823720618151128--24630
+2022-03-29 18:25:07 - train.py[line:87] - INFO: raining/training loss:0.08795838316727896--24650
+2022-03-29 18:25:09 - train.py[line:87] - INFO: raining/training loss:0.07915298917869222--24670
+2022-03-29 18:25:11 - train.py[line:87] - INFO: raining/training loss:0.10720970017027867--24690
+2022-03-29 18:25:12 - train.py[line:87] - INFO: raining/training loss:0.08350295406708028--24710
+2022-03-29 18:25:14 - train.py[line:87] - INFO: raining/training loss:0.011312391617684625--24730
+2022-03-29 18:25:16 - train.py[line:87] - INFO: raining/training loss:0.03781348608317785--24750
+2022-03-29 18:25:17 - train.py[line:87] - INFO: raining/training loss:0.01349276469045435--24770
+2022-03-29 18:25:19 - train.py[line:87] - INFO: raining/training loss:0.07370769689732697--24790
+2022-03-29 18:25:21 - train.py[line:87] - INFO: raining/training loss:0.04865634993329877--24810
+2022-03-29 18:25:23 - train.py[line:87] - INFO: raining/training loss:0.13621031364891678--24830
+2022-03-29 18:25:24 - train.py[line:87] - INFO: raining/training loss:0.08088229113491252--24850
+2022-03-29 18:25:26 - train.py[line:87] - INFO: raining/training loss:0.053456144142546694--24870
+2022-03-29 18:25:28 - train.py[line:87] - INFO: raining/training loss:0.039608732900524045--24890
+2022-03-29 18:25:29 - train.py[line:87] - INFO: raining/training loss:0.07174756610693293--24910
+2022-03-29 18:25:31 - train.py[line:87] - INFO: raining/training loss:0.052180725205107595--24930
+2022-03-29 18:25:33 - train.py[line:87] - INFO: raining/training loss:0.10911107047577388--24950
+2022-03-29 18:25:34 - train.py[line:87] - INFO: raining/training loss:0.01231467700417852--24970
+2022-03-29 18:25:36 - train.py[line:87] - INFO: raining/training loss:0.09449626243585954--24990
+2022-03-29 18:25:40 - train.py[line:110] - INFO:               precision    recall  f1-score   support
+
+     unknown       0.54      0.44      0.49       100
+          父母       0.72      0.91      0.80       228
+          夫妻       0.84      0.83      0.83       270
+          师生       0.76      0.70      0.73        54
+        兄弟姐妹       0.77      0.54      0.64        81
+          合作       0.76      0.78      0.77       110
+          情侣       0.83      0.79      0.81        57
+          祖孙       0.77      0.59      0.67        17
+          好友       0.78      0.67      0.72        27
+          亲戚       0.40      0.46      0.43        13
+          同门       0.70      0.67      0.68        24
+         上下级       0.87      0.68      0.76        19
+
+    accuracy                           0.75      1000
+   macro avg       0.73      0.67      0.69      1000
+weighted avg       0.75      0.75      0.75      1000
+
+2022-03-29 18:25:40 - train.py[line:119] - INFO: Validation/f1:0.7457105856322868---epoch:19
+2022-03-29 18:25:40 - train.py[line:120] - INFO: Validation/precision:0.7512762980938751---epoch:19
+2022-03-29 18:25:40 - train.py[line:121] - INFO: Validation/recall:0.751---epoch:19
+2022-03-29 18:25:40 - train.py[line:122] - INFO: Validation/accuracy:0.751---epoch:19
